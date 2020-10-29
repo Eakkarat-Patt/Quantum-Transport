@@ -1,0 +1,29 @@
+\penalty -\@highpenalty \relax \vskip 1.0em plus\p@ \@tempdima 3.5em\relax \begingroup \parindent \z@ \rightskip 1.55em\parfillskip -1.55em\unhbox \voidb@x \bfseries \advance \leftskip \@tempdima \hskip -\leftskip \nobreak \hfil \nobreak \hbox to1.55em{\hss PAGE}\par \penalty \@highpenalty \endgroup 
+\contentsline {chapter}{ABSTRACT IN ENGLISH}{ii}%
+\contentsline {chapter}{ACKNOWLEDGMENTS}{iii}%
+\penalty -\@highpenalty \relax \vskip 1.0em plus\p@ \@tempdima 3.5em\relax \begingroup \parindent \z@ \rightskip 1.55em\parfillskip -1.55em\unhbox \voidb@x \bfseries \advance \leftskip \@tempdima \hskip -\leftskip CONTENTS\nobreak \hfil \nobreak \hbox to1.55em{\hss iv}\par \penalty \@highpenalty \endgroup 
+\@tempskipb \lastskip \begingroup \@tempskipa \@tempskipb \advance \@tempskipb \prevdepth \vskip -\@tempskipb \penalty -\@highpenalty \advance \@tempskipb -\@tempskipa \vskip \@tempskipb \vskip \@tempskipa \endgroup \vskip 1.0em plus\p@ \@tempdima 3.5em\relax \begingroup \parindent \z@ \rightskip 1.55em\parfillskip -1.55em\unhbox \voidb@x \bfseries \advance \leftskip \@tempdima \hskip -\leftskip LIST OF FIGURES\nobreak \hfil \nobreak \hbox to1.55em{\hss vi}\par \penalty \@highpenalty \endgroup 
+\penalty -\@highpenalty \relax \vskip 1.0em plus\p@ \@tempdima 3.5em\relax \begingroup \parindent \z@ \rightskip 1.55em\parfillskip -1.55em\unhbox \voidb@x \bfseries \advance \leftskip \@tempdima \hskip -\leftskip \nobreak \hfil \nobreak \hbox to1.55em{\hss }\par \penalty \@highpenalty \endgroup 
+\penalty -\@highpenalty \relax \vskip 1.0em plus\p@ \@tempdima 3.5em\relax \begingroup \parindent \z@ \rightskip 1.55em\parfillskip -1.55em\unhbox \voidb@x \bfseries \advance \leftskip \@tempdima \hskip -\leftskip CHAPTER\nobreak \hfil \nobreak \hbox to1.55em{\hss }\par \penalty \@highpenalty \endgroup 
+\afterpage {\nobreakspace {}\hfill \textbf {PAGE}\par \vspace \medskipamount }
+\addvspace {10\p@ }
+\contentsline {kmuttchapter}{\numberline {\bf 1.}{\bf INTRODUCTION}}{1}%
+\contentsline {section}{\numberline {1.1}Background and motivation}{1}%
+\addvspace {10\p@ }
+\contentsline {kmuttchapter}{\numberline {\bf 2.}{\bf THEORETICAL BACKGROUND}}{2}%
+\addvspace {10\p@ }
+\contentsline {kmuttchapter}{\numberline {\bf 3.}{\bf MODEL AND METHOD}}{3}%
+\contentsline {section}{\numberline {3.1}Transmission probability of electron in tilted Dirac cone}{3}%
+\addvspace {10\p@ }
+\contentsline {kmuttchapter}{\numberline {\bf 4.}{\bf RESULT AND DISCUSSION}}{4}%
+\contentsline {section}{\numberline {4.1}Angular dependent of transmission probability}{4}%
+\contentsline {section}{\numberline {4.2}The tilted strength identification by means of the tunneling resonance properties}{5}%
+\contentsline {section}{\numberline {4.3}Oscillatory behavior of electron transmission}{6}%
+\contentsline {section}{\numberline {4.4}Revisit: The tilted strength identification by means of the tunneling resonance properties}{8}%
+\contentsline {section}{\numberline {4.5}Pseudo magnetic field}{8}%
+\contentsline {section}{\numberline {4.6}Transmission under the influence of pseudo magnetic field}{9}%
+\contentsline {section}{\numberline {4.7}The key consequence of the mismatch effect}{10}%
+\addvspace {10\p@ }
+\contentsline {kmuttchapter}{\numberline {\bf 5.}{\bf CONCLUSION}}{11}%
+\contentsline {chapter}{REFERENCES}{12}%
+\contentsline {chapter}{BIOGRAPHY}{13}%

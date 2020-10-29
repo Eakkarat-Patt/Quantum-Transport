@@ -1,0 +1,462 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.7.17)  29 OCT 2020 14:26
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Main.tex
+(/Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Main.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06> (/Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/kmutt.cls
+Document Class: kmutt 2006/04/05 v1.4a standard LaTeX report class - modified for KMUTT thesis
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@chapter=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip49
+\bibsep=\skip50
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count176
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count177
+\Gm@cntv=\count178
+\c@Gm@tempcnt=\count179
+\Gm@bindingoffset=\dimen137
+\Gm@wd@mp=\dimen138
+\Gm@odd@mp=\dimen139
+\Gm@even@mp=\dimen140
+\Gm@layoutwidth=\dimen141
+\Gm@layoutheight=\dimen142
+\Gm@layouthoffset=\dimen143
+\Gm@layoutvoffset=\dimen144
+\Gm@dimlist=\toks16
+
+
+Package geometry Warning: `includefoot' should be set to `true' or `false'.
+
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup4
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count180
+\float@exts=\toks17
+\float@box=\box45
+\@float@everytoks=\toks18
+\@floatcapt=\box46
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen145
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen146
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count181
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count182
+\leftroot@=\count183
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count184
+\DOTSCASE@=\count185
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen147
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count186
+\c@MaxMatrixCols=\count187
+\dotsspace@=\muskip16
+\c@parentequation=\count188
+\dspbrk@lvl=\count189
+\tag@help=\toks20
+\row@=\count190
+\column@=\count191
+\maxfields@=\count192
+\andhelp@=\toks21
+\eqnshift@=\dimen148
+\alignsep@=\dimen149
+\tagshift@=\dimen150
+\tagwidth@=\dimen151
+\totwidth@=\dimen152
+\lineht@=\dimen153
+\@envbody=\toks22
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/afterpage.sty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks24
+\AP@partial=\box49
+\AP@footins=\box50
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen154
+\captionmargin@=\dimen155
+\captionwidth=\dimen156
+\caption@tempdima=\dimen157
+\caption@indent=\dimen158
+\caption@parindent=\dimen159
+\caption@hangindent=\dimen160
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->\vskip \abovecaptionskip \sbox \@tempboxa {{\bf #1} #2}\ifdim \wd \@tempboxa >\hsize {\bf #1} #2\par \else \global \@minipagefalse \hb@xt@ \hsize {\hfil \box \@tempboxa \hfil }\fi \vskip \belowcaptionskip  on input line 1082.
+)
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+\c@caption@flags=\count193
+\c@continuedfloat=\count194
+Package caption Info: float package is loaded.
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/01/22 v1.3d Sub-captions (AR)
+\c@subfigure=\count195
+\c@subtable=\count196
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/cleveref/cleveref.sty
+Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/epsf/epsf.sty
+This is `epsf.tex' v2.7.4 <14 February 2011>
+\epsffilein=\read2
+\epsfframemargin=\dimen161
+\epsfframethickness=\dimen162
+\epsfrsize=\dimen163
+\epsftmp=\dimen164
+\epsftsize=\dimen165
+\epsfxsize=\dimen166
+\epsfysize=\dimen167
+\pspoints=\dimen168
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count197
+\l__pdf_internal_box=\box51
+) (/Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Main.aux)
+\openout1 = `Main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+ (/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count198
+\scratchdimen=\dimen169
+\scratchbox=\box52
+\nofMPsegments=\count199
+\nofMParguments=\count266
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count267
+\MPscratchDim=\dimen170
+\MPnumerator=\count268
+\makeMPintoPDFobject=\count269
+\everyMPtoPDFconversion=\toks26
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(113.81102pt, 426.79135pt, 56.9055pt)
+* v-part:(T,H,B)=(85.35826pt, 702.78308pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79135pt
+* \textheight=702.78308pt
+* \oddsidemargin=41.54103pt
+* \evensidemargin=41.54103pt
+* \topmargin=-48.65417pt
+* \headheight=36.13498pt
+* \headsep=25.60747pt
+* \topskip=12.0pt
+* \footskip=28.45274pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+(/Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/title.tex
+<logo.jpg, id=1, 292.0pt x 290.54pt>
+File: logo.jpg Graphic file (type jpg)
+<use logo.jpg>
+Package pdftex.def Info: logo.jpg  used on input line 1.
+(pdftex.def)             Requested size: 101.17755pt x 100.67085pt.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <13> not available
+(Font)              size <12> substituted on input line 3.
+
+) [1
+
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} </Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/logo.jpg>] (/Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/in_title.tex
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 20.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 20.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 20.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (4.43869pt too wide) in paragraph at lines 20--35
+[] 
+ []
+
+) [1] (/Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Abstract en.tex) [2] (/Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Acknowledge.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--9
+
+ []
+
+) [3]
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <15> not available
+(Font)              size <14.4> substituted on input line 46.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <15> not available
+(Font)              size <14.4> substituted on input line 46.
+
+(/Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Main.toc [4
+
+])
+\tf@toc=\write3
+\openout3 = `Main.toc'.
+
+ [5] (/Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Main.lof)
+\tf@lof=\write4
+\openout4 = `Main.lof'.
+
+ [6
+
+] (/Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Chapter1.tex
+CHAPTER 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--6
+
+ []
+
+) (/Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Chapter2.tex [1
+
+]
+CHAPTER 2.
+<fig/Transistor.png, id=36, 1157.32375pt x 879.285pt>
+File: fig/Transistor.png Graphic file (type png)
+<use fig/Transistor.png>
+Package pdftex.def Info: fig/Transistor.png  used on input line 5.
+(pdftex.def)             Requested size: 347.1998pt x 263.78754pt.
+) (/Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Chapter3.tex [2
+
+ </Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/Transistor.png>]
+CHAPTER 3.
+) (/Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Chapter4.tex [3
+
+]
+CHAPTER 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--21
+
+ []
+
+<fig/tunneling shift/U0.02.png, id=48, 272.24109pt x 479.94507pt>
+File: fig/tunneling shift/U0.02.png Graphic file (type png)
+<use fig/tunneling shift/U0.02.png>
+Package pdftex.def Info: fig/tunneling shift/U0.02.png  used on input line 29.
+(pdftex.def)             Requested size: 128.0387pt x 225.728pt.
+<fig/tunneling shift/U0.07.png, id=49, 271.22931pt x 479.94507pt>
+File: fig/tunneling shift/U0.07.png Graphic file (type png)
+<use fig/tunneling shift/U0.07.png>
+Package pdftex.def Info: fig/tunneling shift/U0.07.png  used on input line 34.
+(pdftex.def)             Requested size: 128.0387pt x 226.57019pt.
+<fig/tunneling shift/U0.2.png, id=50, 269.92845pt x 479.43918pt>
+File: fig/tunneling shift/U0.2.png Graphic file (type png)
+<use fig/tunneling shift/U0.2.png>
+Package pdftex.def Info: fig/tunneling shift/U0.2.png  used on input line 40.
+(pdftex.def)             Requested size: 128.0387pt x 227.4214pt.
+<fig/tunneling shift/U0.285.png, id=51, 270.07298pt x 479.22237pt>
+File: fig/tunneling shift/U0.285.png Graphic file (type png)
+<use fig/tunneling shift/U0.285.png>
+Package pdftex.def Info: fig/tunneling shift/U0.285.png  used on input line 45.
+(pdftex.def)             Requested size: 128.0387pt x 227.20155pt.
+[4
+
+] [5 </Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/tunneling shift/U0.02.png> </Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/tunneling shift/U0.07.png> </Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/tunneling shift/U0.2.png> </Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/tunneling shift/U0.285.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 62--68
+
+ []
+
+<fig/tp Ef = 0.08 e1 = 0 e2 = 0.05 e3 = 0.1.png, id=63, 939.51pt x 650.43pt>
+File: fig/tp Ef = 0.08 e1 = 0 e2 = 0.05 e3 = 0.1.png Graphic file (type png)
+<use fig/tp Ef = 0.08 e1 = 0 e2 = 0.05 e3 = 0.1.png>
+Package pdftex.def Info: fig/tp Ef = 0.08 e1 = 0 e2 = 0.05 e3 = 0.1.png  used on input line 83.
+(pdftex.def)             Requested size: 426.79135pt x 295.46973pt.
+[6]
+<fig/3 arm structure.png, id=69, 1846.9pt x 1971.365pt>
+File: fig/3 arm structure.png Graphic file (type png)
+<use fig/3 arm structure.png>
+Package pdftex.def Info: fig/3 arm structure.png  used on input line 93.
+(pdftex.def)             Requested size: 192.0548pt x 204.969pt.
+<fig/tp Ef = 0.08 U1 = 0.1802 e1 = 0 e3 = 0.1.png, id=70, 278.60085pt x 480.23415pt>
+File: fig/tp Ef = 0.08 U1 = 0.1802 e1 = 0 e3 = 0.1.png Graphic file (type png)
+<use fig/tp Ef = 0.08 U1 = 0.1802 e1 = 0 e3 = 0.1.png>
+Package pdftex.def Info: fig/tp Ef = 0.08 U1 = 0.1802 e1 = 0 e3 = 0.1.png  used on input line 98.
+(pdftex.def)             Requested size: 128.0387pt x 220.7052pt.
+ [7 </Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/tp Ef = 0.08 e1 = 0 e2 = 0.05 e3 = 0.1.png>] [8 </Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/3 arm structure.png> </Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/tp Ef = 0.08 U1 = 0.1802 e1 = 0 e3 = 0.1.png>]
+<fig/pseudo B field/Ef0.0832 U0.285 B0.05 w0.028.png, id=80, 269.42256pt x 478.93329pt>
+File: fig/pseudo B field/Ef0.0832 U0.285 B0.05 w0.028.png Graphic file (type png)
+<use fig/pseudo B field/Ef0.0832 U0.285 B0.05 w0.028.png>
+Package pdftex.def Info: fig/pseudo B field/Ef0.0832 U0.285 B0.05 w0.028.png  used on input line 139.
+(pdftex.def)             Requested size: 128.0387pt x 227.59798pt.
+<fig/pseudo B field/Ef0.0832 U0.285 B1.5 w0.156.png, id=81, 268.77213pt x 479.51144pt>
+File: fig/pseudo B field/Ef0.0832 U0.285 B1.5 w0.156.png Graphic file (type png)
+<use fig/pseudo B field/Ef0.0832 U0.285 B1.5 w0.156.png>
+Package pdftex.def Info: fig/pseudo B field/Ef0.0832 U0.285 B1.5 w0.156.png  used on input line 144.
+(pdftex.def)             Requested size: 128.0387pt x 228.43613pt.
+<fig/pseudo B field/Ef0.0832 U0 B0.05 w-0.069.png, id=82, 268.41078pt x 477.48788pt>
+File: fig/pseudo B field/Ef0.0832 U0 B0.05 w-0.069.png Graphic file (type png)
+<use fig/pseudo B field/Ef0.0832 U0 B0.05 w-0.069.png>
+Package pdftex.def Info: fig/pseudo B field/Ef0.0832 U0 B0.05 w-0.069.png  used on input line 150.
+(pdftex.def)             Requested size: 128.0387pt x 227.77083pt.
+<fig/pseudo B field/Ef0.0832 U0 B1.5 w-0.378.png, id=83, 268.77213pt x 477.77698pt>
+File: fig/pseudo B field/Ef0.0832 U0 B1.5 w-0.378.png Graphic file (type png)
+<use fig/pseudo B field/Ef0.0832 U0 B1.5 w-0.378.png>
+Package pdftex.def Info: fig/pseudo B field/Ef0.0832 U0 B1.5 w-0.378.png  used on input line 155.
+(pdftex.def)             Requested size: 128.0387pt x 227.60983pt.
+ [9]) (/Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Chapter5.tex [10 </Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0.285 B0.05 w0.028.png> </Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0.285 B1.5 w0.156.png> </Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0 B0.05 w-0.069.png> </Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0 B1.5 w-0.378.png>]
+CHAPTER 5.
+) (/Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Main.bbl [11
+
+]) [12
+
+] (/Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Biography.tex)
+Overfull \hbox (7.8226pt too wide) in paragraph at lines 3--74
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--74
+
+ []
+
+[13
+
+] (/Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Main.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.0pt have occurred.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 6397 strings out of 480608
+ 110340 string characters out of 5903630
+ 364458 words of memory out of 5000000
+ 22184 multiletter control sequences out of 15000+600000
+ 540410 words of font info for 56 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,14n,42p,689b,507s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Main.pdf (20 pages, 12388665 bytes).
+PDF statistics:
+ 143 PDF objects out of 1000 (max. 8388607)
+ 83 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+

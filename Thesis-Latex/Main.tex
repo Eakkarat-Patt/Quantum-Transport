@@ -1,0 +1,74 @@
+\documentclass[12pt]{kmutt}
+\usepackage[left=40mm, right=20mm, top=30mm, bottom=20mm, includefoot=12.7mm, headheight=12.7mm]{geometry}
+\usepackage{mathrsfs}
+\usepackage{float}
+%\usepackage{subfloat}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{amsfonts}
+\usepackage{afterpage}
+\usepackage{amssymb}
+%\usepackage{epsfig}
+%\usepackage{subfigure}
+\usepackage[usenames]{color}
+\usepackage[labelfont=bf]{caption}
+%\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{cleveref}
+
+\captionsetup{format = hang, labelsep=space}%This command is setting line of caption and removing colon from the picture captions.
+\input{epsf.sty}
+\linespread{1.5}
+\def\thesection{\thechapter .\arabic{section}}
+\setlength\parindent{0pt}
+
+\begin{document}
+    \newpage
+    \thispagestyle{empty}
+    \input{title.tex}
+    \newpage
+
+    \pagenumbering{roman}
+    \pagestyle{headings}
+    \addtocontents{toc}{\contentsline{chapter}{}{PAGE}}
+    \thispagestyle{empty}
+    \input{in_title.tex}
+    \newpage
+
+    \input{Abstract en.tex}
+    \addcontentsline{toc}{chapter}{ABSTRACT IN ENGLISH}
+    \newpage
+
+    \input{Acknowledge.tex}
+    \addcontentsline{toc}{chapter}{ACKNOWLEDGMENTS}
+    \newpage
+
+    \tableofcontents
+    \addtocontents{toc}{\contentsline{chapter}{CONTENTS}{iv}}
+    \newpage
+
+    \listoffigures
+    \addtocontents{toc}{\contentsline{chapter}{LIST OF FIGURES}{vi}}
+    \addtocontents{lof}{\contentsline{chapter}{FIGURE}{PAGE}}
+    \addtocontents{toc}{\contentsline{chapter}{}{}}
+    \addtocontents{toc}{\contentsline{chapter}{CHAPTER}{}}
+    \newpage
+
+    \pagenumbering{arabic}
+    \addtocontents{toc}{\protect\afterpage{~\hfill\textbf{PAGE}\par\medskip}}
+
+    \input{Chapter1.tex}
+    \input{Chapter2.tex}
+    \input{Chapter3.tex}
+    \input{Chapter4.tex}
+    \input{Chapter5.tex}
+
+
+    \bibliographystyle{kmutt}
+    \bibliography{library}
+    \addcontentsline{toc}{chapter}{REFERENCES}
+    \newpage
+
+    \addcontentsline{toc}{chapter}{BIOGRAPHY}
+    \input{Biography.tex}
+\end{document}

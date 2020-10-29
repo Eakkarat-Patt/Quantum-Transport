@@ -1,0 +1,11 @@
+\penalty -\@highpenalty \relax \vskip 1.0em plus\p@ \@tempdima 3.5em\relax \begingroup \parindent \z@ \rightskip 1.55em\parfillskip -1.55em\unhbox \voidb@x \bfseries \advance \leftskip \@tempdima \hskip -\leftskip FIGURE\nobreak \hfil \nobreak \hbox to1.55em{\hss PAGE}\par \penalty \@highpenalty \endgroup 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces The device structure of field-effect transistor.\relax }}{2}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces The same cup of coffee. Two times.\relax }}{5}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces tp fixed angle\relax }}{7}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces (a) The device structure for the measurement of resonant tunneling electron. Straight blue lines represent the transport region where both arms are $45^{\circ }$ angled with the normal direction. Green and yellow region represents top gate and electrode respectively. (b) Angular-dependent transmission for different applied voltages, U=180.2 meV for solid line and U=185.85 meV for dashed-dotted line. These voltages satisfy the resonance condition at $\phi = \frac {\pi }{4}$.\relax }}{8}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces The polar plot of transmission probabilities as a function of incident angle of the system with tilted mismatch Dirac cone (solid line) and non-tilted system under the influence of delta magnetic field (dashed line). The Fermi energy $E_F = 83$ meV is the same for all plot, the gate potential $U = 285$ meV for (a) and (b), $U = 0$ for (c) and (d) \relax }}{10}%
+\addvspace {10\p@ }
