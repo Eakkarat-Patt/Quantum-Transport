@@ -1,11 +1,11 @@
-PWD /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex
+PWD /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex
 INPUT /usr/local/texlive/2020/texmf.cnf
 INPUT /usr/local/texlive/2020/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Main.tex
-OUTPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Main.log
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/kmutt.cls
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/kmutt.cls
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.tex
+OUTPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.log
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/kmutt.cls
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/kmutt.cls
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/size12.clo
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/size12.clo
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map
@@ -66,25 +66,25 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/epsf/epsf.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/epsf/epsf.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Main.aux
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Main.aux
-OUTPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Main.aux
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.aux
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.aux
+OUTPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.aux
 INPUT /usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/title.tex
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/title.tex
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/logo.jpg
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/logo.jpg
-OUTPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Main.pdf
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/logo.jpg
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/title.tex
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/title.tex
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/logo.jpg
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/logo.jpg
+OUTPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.pdf
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/logo.jpg
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/in_title.tex
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/in_title.tex
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/in_title.tex
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/in_title.tex
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
@@ -111,77 +111,77 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Abstract en.tex
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Abstract en.tex
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Acknowledge.tex
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Acknowledge.tex
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Abstract en.tex
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Abstract en.tex
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Acknowledge.tex
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Acknowledge.tex
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Main.toc
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Main.toc
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.toc
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.toc
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-OUTPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Main.toc
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Main.lof
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Main.lof
-OUTPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Main.lof
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Chapter1.tex
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Chapter1.tex
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Chapter2.tex
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Chapter2.tex
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/Transistor.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/Transistor.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/Transistor.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Chapter3.tex
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Chapter3.tex
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Chapter4.tex
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Chapter4.tex
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/tunneling shift/U0.02.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/tunneling shift/U0.02.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/tunneling shift/U0.02.png
+OUTPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.toc
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.lof
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.lof
+OUTPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.lof
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Chapter1.tex
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Chapter1.tex
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Chapter2.tex
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Chapter2.tex
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Transistor.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Transistor.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Transistor.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Chapter3.tex
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Chapter3.tex
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Chapter4.tex
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Chapter4.tex
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tunneling shift/U0.02.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tunneling shift/U0.02.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tunneling shift/U0.02.png
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/tunneling shift/U0.07.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/tunneling shift/U0.07.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/tunneling shift/U0.07.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/tunneling shift/U0.2.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/tunneling shift/U0.2.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/tunneling shift/U0.2.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/tunneling shift/U0.285.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/tunneling shift/U0.285.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/tunneling shift/U0.285.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/tp Ef = 0.08 e1 = 0 e2 = 0.05 e3 = 0.1.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/tp Ef = 0.08 e1 = 0 e2 = 0.05 e3 = 0.1.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/tp Ef = 0.08 e1 = 0 e2 = 0.05 e3 = 0.1.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/3 arm structure.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/3 arm structure.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/3 arm structure.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/tp Ef = 0.08 U1 = 0.1802 e1 = 0 e3 = 0.1.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/tp Ef = 0.08 U1 = 0.1802 e1 = 0 e3 = 0.1.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/tp Ef = 0.08 U1 = 0.1802 e1 = 0 e3 = 0.1.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0.285 B0.05 w0.028.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0.285 B0.05 w0.028.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0.285 B0.05 w0.028.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0.285 B1.5 w0.156.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0.285 B1.5 w0.156.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0.285 B1.5 w0.156.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0 B0.05 w-0.069.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0 B0.05 w-0.069.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0 B0.05 w-0.069.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0 B1.5 w-0.378.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0 B1.5 w-0.378.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0 B1.5 w-0.378.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Chapter5.tex
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Chapter5.tex
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Main.bbl
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Main.bbl
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Biography.tex
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Biography.tex
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tunneling shift/U0.07.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tunneling shift/U0.07.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tunneling shift/U0.07.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tunneling shift/U0.2.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tunneling shift/U0.2.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tunneling shift/U0.2.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tunneling shift/U0.285.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tunneling shift/U0.285.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tunneling shift/U0.285.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tp Ef = 0.08 e1 = 0 e2 = 0.05 e3 = 0.1.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tp Ef = 0.08 e1 = 0 e2 = 0.05 e3 = 0.1.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tp Ef = 0.08 e1 = 0 e2 = 0.05 e3 = 0.1.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/3 arm structure.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/3 arm structure.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/3 arm structure.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tp Ef = 0.08 U1 = 0.1802 e1 = 0 e3 = 0.1.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tp Ef = 0.08 U1 = 0.1802 e1 = 0 e3 = 0.1.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tp Ef = 0.08 U1 = 0.1802 e1 = 0 e3 = 0.1.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0.285 B0.05 w0.028.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0.285 B0.05 w0.028.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0.285 B0.05 w0.028.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0.285 B1.5 w0.156.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0.285 B1.5 w0.156.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0.285 B1.5 w0.156.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0 B0.05 w-0.069.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0 B0.05 w-0.069.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0 B0.05 w-0.069.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0 B1.5 w-0.378.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0 B1.5 w-0.378.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0 B1.5 w-0.378.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Chapter5.tex
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Chapter5.tex
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.bbl
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.bbl
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Biography.tex
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Biography.tex
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-transport-MDF/Thesis-Latex/Main.aux
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.aux
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
