@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.7.17)  29 OCT 2020 17:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.7.17)  31 OCT 2020 11:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -386,39 +386,39 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--68
 <fig/tp Ef = 0.08 e1 = 0 e2 = 0.05 e3 = 0.1.png, id=63, 939.51pt x 650.43pt>
 File: fig/tp Ef = 0.08 e1 = 0 e2 = 0.05 e3 = 0.1.png Graphic file (type png)
 <use fig/tp Ef = 0.08 e1 = 0 e2 = 0.05 e3 = 0.1.png>
-Package pdftex.def Info: fig/tp Ef = 0.08 e1 = 0 e2 = 0.05 e3 = 0.1.png  used on input line 86.
+Package pdftex.def Info: fig/tp Ef = 0.08 e1 = 0 e2 = 0.05 e3 = 0.1.png  used on input line 87.
 (pdftex.def)             Requested size: 426.79135pt x 295.46973pt.
 [6]
 <fig/3 arm structure.png, id=69, 1846.9pt x 1971.365pt>
 File: fig/3 arm structure.png Graphic file (type png)
 <use fig/3 arm structure.png>
-Package pdftex.def Info: fig/3 arm structure.png  used on input line 96.
+Package pdftex.def Info: fig/3 arm structure.png  used on input line 97.
 (pdftex.def)             Requested size: 192.0548pt x 204.969pt.
 <fig/tp Ef = 0.08 U1 = 0.1802 e1 = 0 e3 = 0.1.png, id=70, 278.60085pt x 480.23415pt>
 File: fig/tp Ef = 0.08 U1 = 0.1802 e1 = 0 e3 = 0.1.png Graphic file (type png)
 <use fig/tp Ef = 0.08 U1 = 0.1802 e1 = 0 e3 = 0.1.png>
-Package pdftex.def Info: fig/tp Ef = 0.08 U1 = 0.1802 e1 = 0 e3 = 0.1.png  used on input line 101.
+Package pdftex.def Info: fig/tp Ef = 0.08 U1 = 0.1802 e1 = 0 e3 = 0.1.png  used on input line 102.
 (pdftex.def)             Requested size: 128.0387pt x 220.7052pt.
  [7 </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tp Ef = 0.08 e1 = 0 e2 = 0.05 e3 = 0.1.png>] [8 </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/3 arm structure.png> </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tp Ef = 0.08 U1 = 0.1802 e1 = 0 e3 = 0.1.png>]
 <fig/pseudo B field/Ef0.0832 U0.285 B0.05 w0.028.png, id=80, 269.42256pt x 478.93329pt>
 File: fig/pseudo B field/Ef0.0832 U0.285 B0.05 w0.028.png Graphic file (type png)
 <use fig/pseudo B field/Ef0.0832 U0.285 B0.05 w0.028.png>
-Package pdftex.def Info: fig/pseudo B field/Ef0.0832 U0.285 B0.05 w0.028.png  used on input line 142.
+Package pdftex.def Info: fig/pseudo B field/Ef0.0832 U0.285 B0.05 w0.028.png  used on input line 143.
 (pdftex.def)             Requested size: 128.0387pt x 227.59798pt.
 <fig/pseudo B field/Ef0.0832 U0.285 B1.5 w0.156.png, id=81, 268.77213pt x 479.51144pt>
 File: fig/pseudo B field/Ef0.0832 U0.285 B1.5 w0.156.png Graphic file (type png)
 <use fig/pseudo B field/Ef0.0832 U0.285 B1.5 w0.156.png>
-Package pdftex.def Info: fig/pseudo B field/Ef0.0832 U0.285 B1.5 w0.156.png  used on input line 147.
+Package pdftex.def Info: fig/pseudo B field/Ef0.0832 U0.285 B1.5 w0.156.png  used on input line 148.
 (pdftex.def)             Requested size: 128.0387pt x 228.43613pt.
 <fig/pseudo B field/Ef0.0832 U0 B0.05 w-0.069.png, id=82, 268.41078pt x 477.48788pt>
 File: fig/pseudo B field/Ef0.0832 U0 B0.05 w-0.069.png Graphic file (type png)
 <use fig/pseudo B field/Ef0.0832 U0 B0.05 w-0.069.png>
-Package pdftex.def Info: fig/pseudo B field/Ef0.0832 U0 B0.05 w-0.069.png  used on input line 153.
+Package pdftex.def Info: fig/pseudo B field/Ef0.0832 U0 B0.05 w-0.069.png  used on input line 154.
 (pdftex.def)             Requested size: 128.0387pt x 227.77083pt.
 <fig/pseudo B field/Ef0.0832 U0 B1.5 w-0.378.png, id=83, 268.77213pt x 477.77698pt>
 File: fig/pseudo B field/Ef0.0832 U0 B1.5 w-0.378.png Graphic file (type png)
 <use fig/pseudo B field/Ef0.0832 U0 B1.5 w-0.378.png>
-Package pdftex.def Info: fig/pseudo B field/Ef0.0832 U0 B1.5 w-0.378.png  used on input line 158.
+Package pdftex.def Info: fig/pseudo B field/Ef0.0832 U0 B1.5 w-0.378.png  used on input line 159.
 (pdftex.def)             Requested size: 128.0387pt x 227.60983pt.
  [9]) (/Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Chapter5.tex [10 </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0.285 B0.05 w0.028.png> </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0.285 B1.5 w0.156.png> </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0 B0.05 w-0.069.png> </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0 B1.5 w-0.378.png>]
 CHAPTER 5.
@@ -453,7 +453,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  41i,14n,42p,685b,507s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.pdf (20 pages, 12388761 bytes).
+Output written on /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.pdf (20 pages, 12388883 bytes).
 PDF statistics:
  143 PDF objects out of 1000 (max. 8388607)
  83 compressed objects within 1 object stream
