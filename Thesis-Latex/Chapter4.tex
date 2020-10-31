@@ -79,9 +79,14 @@ The calculation of transmission probability is carried out using Eq. \ref{eq:tp}
 \section{Oscillatory behavior of electron resonant tunneling}
     To understand the behaviors of resonant tunneling under the effect of the tilt and gate potential, 
     we plot the transmission probabilities at particular incident angle $\phi = 45^{\circ}$ shown in Fig. \ref{fig:tp 45 deg}.
-    We found that the resonant tunneling oscillate uniformly with the increasing of gate voltage where the voltage difference is the same for every resonance condition.
-    
-    %the effect of the tilt does not destroy the uniformity of the oscillation, it simply shifted as the tilted parameter increased. 
+    We found that the resonant tunneling oscillate with the increasing of gate voltage where the voltage difference between each resonance condition is the same.
+    Also The voltages required to satisfy the resonance conditions are increased with the tilted strength.
+    These resonant tunnelings are shifted uniformly with the tilted parameter, which can be confirmed mathematically by taking the derivative of Eq. \ref{eq:w0} with respect to $U$
+    \begin{align} \label{eq:dw wrt U}
+        \frac{d w_{0\pm}}{dU} &= \frac{d}{dU} \left(\frac{U-E_F}{\hbar v_F k \sin{\phi}}\mp \sqrt{1+\left(\frac{n \pi}{k L \sin{\phi}}\right)^2}\right) \notag \\
+                              &= \frac{1}{\hbar v_F k \sin{\phi}}.
+    \end{align}
+    Eq. \ref{eq:dw wrt U} indicates that the tilted parameter is linearly proportional to gate voltage
     \begin{figure}[H]
         \centering
             \includegraphics[width=\linewidth]{fig/tp Ef = 0.08 e1 = 0 e2 = 0.05 e3 = 0.1.png}
