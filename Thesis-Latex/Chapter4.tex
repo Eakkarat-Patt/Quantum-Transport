@@ -76,12 +76,12 @@ The calculation of transmission probability is carried out using Eq. \ref{eq:tp}
     %Electron propagations at normal incident undergo the Klein tunneling effect, where the transmission probability always equal to one.
     % the downside of this method is there are unknown parameter such as n
     %In the next section, we show how to get rid of n
-\section{Oscillatory behavior of electron resonant tunneling}
+\section{Oscillatory behavior of electron resonant tunneling} \label{sec:oscillation}
     To understand the behaviors of resonant tunneling under the effect of the tilt and gate potential, 
     we plot the transmission probabilities at particular incident angle $\phi = 45^{\circ}$ shown in Fig. \ref{fig:tp 45 deg}.
     We found that the resonant tunneling oscillate with the increasing of gate voltage where the voltage difference between each resonance condition is the same.
     Also The voltages required to satisfy the resonance conditions are increased with the tilted strength.
-    These resonant tunnelings are shifted uniformly with the tilted parameter, which can be confirmed mathematically by taking the derivative of Eq. \ref{eq:w0} with respect to $U$
+    These resonant tunnelings are shifted uniformly with the tilted parameter, which can be confirmed mathematically by taking the derivative to Eq. \ref{eq:w0} with respect to $U$
     \begin{align} \label{eq:dw wrt U}
         \frac{d w_{0\pm}}{dU} &= \frac{d}{dU} \left(\frac{U-E_F}{\hbar v_F k \sin{\phi}}\mp \sqrt{1+\left(\frac{n \pi}{k L \sin{\phi}}\right)^2}\right) \notag \\
                               &= \frac{1}{\hbar v_F k \sin{\phi}}.
@@ -95,7 +95,16 @@ The calculation of transmission probability is carried out using Eq. \ref{eq:tp}
     \end{figure}
 
 \section{Revisit: The tilted strength identification by means of the tunneling resonance properties} \label{sec:find w 2}
-    %This section we address the problem we have so for in section \ref{sec:find w}
+    In section \ref{sec:find w}, we have demonstrated a method to identify the character of Dirac cone using the resonant tunneling properties.
+    The method can be applied to any resonance condition given that we have known its corresponding resonant tunneling angle.
+    However, it is still not a practical method since the parameter $n$ is unobservable.
+    Also, most device configurations have fixed angled probes to observe the resonant tunneling current.
+    In this section, we revisit this study again and eliminate the drawbacks mentioned above.
+    
+    %we apply the linear relation of $w_0$ and $U$, that we discussed in section \ref{sec:oscillation}, 
+    %We can pick any of these resonance condition and find its corresponding gate voltage
+    %the tilted parameter can be identified by calculating the voltage difference of that resonance condition 
+
     \begin{figure}[H] 
         \centering
         \begin{subfigure}[b]{0.45\linewidth}

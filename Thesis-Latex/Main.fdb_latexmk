@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex Main"] 1604125750 "Main.aux" "Main.bbl" "Main" 1604125775
+["bibtex Main"] 1604228436 "Main.aux" "Main.bbl" "Main" 1604229742
   "./kmutt.bst" 1603879376 21261 fa4681f7116edd067c65bd5ebc793c15 ""
-  "Main.aux" 1604125775 10156 399a88971cd399ba9bc1fed582dba172 "pdflatex"
+  "Main.aux" 1604229742 10258 639bb3785d5f4ec6b0c40e69f0de8655 "pdflatex"
   "library.bib" 1603879376 209618 5c2bcf17e67a2062481ad45131297617 ""
   (generated)
-  "Main.bbl"
   "Main.blg"
-["pdflatex"] 1604125750 "/Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.tex" "/Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.pdf" "Main" 1604125775
-  "/Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.aux" 1604125775 10156 399a88971cd399ba9bc1fed582dba172 ""
+  "Main.bbl"
+["pdflatex"] 1604229717 "/Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.tex" "/Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.pdf" "Main" 1604229742
+  "/Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.aux" 1604229742 10258 639bb3785d5f4ec6b0c40e69f0de8655 ""
   "/Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.tex" 1603879376 1990 53ebcf4c0257893d3b450787f05648ce ""
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -89,13 +89,13 @@
   "Chapter1.tex" 1603879376 564 25b7cadea1fe2af5bdc8c97ee25bf799 ""
   "Chapter2.tex" 1603879376 239 0b5656e5eec6e05181e76628ae11e61e ""
   "Chapter3.tex" 1603879376 861 85a53f56c8e908272deb309859a863ca ""
-  "Chapter4.tex" 1604125725 11917 621458d2e1600d5f37d3f1d0e114a666 ""
+  "Chapter4.tex" 1604229716 12727 1c77c1b73ae6b7f5e5aa7816aa2e68a7 ""
   "Chapter5.tex" 1604125725 274 d5985479fbf3d24bb13b8817b1870481 ""
-  "Main.aux" 1604125775 10156 399a88971cd399ba9bc1fed582dba172 "pdflatex"
-  "Main.bbl" 1604125750 1198 20e3dd08ab9a731103c1d079337e834d "bibtex Main"
-  "Main.lof" 1604125775 1677 026b09ae69c9b3eeab56b256dc7471fa "pdflatex"
+  "Main.aux" 1604229742 10258 639bb3785d5f4ec6b0c40e69f0de8655 "pdflatex"
+  "Main.bbl" 1604228436 1198 20e3dd08ab9a731103c1d079337e834d "bibtex Main"
+  "Main.lof" 1604229742 1677 026b09ae69c9b3eeab56b256dc7471fa "pdflatex"
   "Main.tex" 1603879376 1990 53ebcf4c0257893d3b450787f05648ce ""
-  "Main.toc" 1604125775 3350 d5391bada56918b445232a2e5a98d4d8 "pdflatex"
+  "Main.toc" 1604229742 3350 db910d4c0b24145b057255d808d2d832 "pdflatex"
   "fig/3 arm structure.png" 1603879376 167004 e252916ceb32d4217f345f367007af33 ""
   "fig/Transistor.png" 1603879376 569617 9c61e5e53503f7da8b24cdc78d705eb6 ""
   "fig/pseudo B field/Ef0.0832 U0 B0.05 w-0.069.png" 1603879376 1598903 fde1f1385ac3cdfd0b1e120920177ed5 ""
@@ -114,9 +114,9 @@
   "title.tex" 1603879376 632 437aba883282f55f7c62fec536051876 ""
   (generated)
   "Main.aux"
-  "Main.lof"
+  "Main.pdf"
   "Main.toc"
   "/Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.log"
-  "Main.pdf"
-  "Main.log"
   "/Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.pdf"
+  "Main.log"
+  "Main.lof"
