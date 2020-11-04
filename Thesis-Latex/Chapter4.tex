@@ -146,7 +146,7 @@ The calculation of transmission probability is carried out using Eq. \ref{eq:tp}
     where $q' = \frac{E_F-U}{\eta \hbar v_F}$. 
     Notice that the y-component wavevector in Eq. \ref{eq:k_shift} is shifted by the tilted Dirac cone similar to the wavevector shift by the effect of magnetic vector potential.
     Based on this analogy, we can derive the equivalent pseudo magnetic field
-    \begin{align}
+    \begin{align} \label{eq:pseudo B}
         -q' w_0 &= \frac{\xi}{l_B} \notag \\
         -\left(\frac{E_F-U}{\eta \hbar v_F}\right) w_0 &= \xi\sqrt{\frac{|e| B}{\hbar}} \notag \\
         B &= \left(\frac{\varepsilon w_0}{v_F}\right)^2 \frac{1}{\xi \gamma \hbar |e|}
@@ -156,11 +156,45 @@ The calculation of transmission probability is carried out using Eq. \ref{eq:tp}
     The positive(negative) sign mean that the Dirac cone tilted to the left(right) side with respect to normal direction. 
     $\gamma = \pm 1$ indicate the carrier type in Fermi energy level.
 
+\section{The key consequence of the mismatch effect}
+    We have found in section \ref{sec:pseudo b} that both the potential and tilt are the source of pseudo-magnetic field effect, where the strength and direction of the field can be controlled by tuning the effective Fermi energy.
+    This effect actually been proposed in Weyl semimetal n-p-n junction with tilted Weyl cones \cite{Yesilyurt2017a}.
+    However, the coupling of the tilt and top gate potential barrier is required to preserve the effect. In contrast to our work, where the top gate potential can be set to zero, and pseudo-magnetic field effect still occurred according to Eq. \ref{eq:pseudo B}.
+    Which is the consequence of the existence of the mismatch between Dirac cones with different tilted parameters. 
+    To show how the mismatch plays an important role in mimicking the pseudo-magnetic field effect without the requirement of potential barrier. 
+    We sketch the Fermi surface of the first and second regions, as shown in Fig. \ref{fig:fermi surface}, where top gate potential is set to zero. 
+    Hence, electrons in both regions occupy in the same Fermi energy level. 
+    If the Dirac cones are tilted homogeneously, the Fermi surface of both regions are completely overlapped. 
+    Consequently, the electron can symmetrically propagate in all directions as shown in Fig. \ref{fig:real vs pseudo}. 
+    When the inhomogeneity is introduced, where only the Dirac cone in the second region is tilted while the first region is vertical non-tilted. 
+    The Fermi surfaces are partially overlapping as indicated by shaded area, which lead to asymmetric tunneling.
+    
+    \begin{figure}[H] 
+        \centering
+            \begin{subfigure}[b]{0.3\linewidth}
+                \includegraphics[width=\linewidth]{fig/Fermi surface.png}
+                \caption{}
+                \label{fig:fermi surface}
+            \end{subfigure}
+            \begin{subfigure}[b]{0.3\linewidth}
+                \includegraphics[width=\linewidth]{fig/real vs pseudo.png}
+                \caption{}
+                \label{fig:real vs pseudo}
+            \end{subfigure}
+        \caption{(a) The Fermi surfaces of Dirac cones in different regions. 
+                    The solid line represents the Fermi surface of non-tilted Dirac cone in region I and the dashed line represents the Fermi surface of tilted Dirac cone $w_0=0.5$ in region II. 
+                    (b) The transmission probabilities as a function of incident angle, where the solid (dashed) line is the case of the system with (without) the mismatch of Dirac cones. 
+                    The Fermi energy $E_F=80$ meV and gate potential is zero.}
+    \end{figure}
 
    
 \section{Transmission under the influence of pseudo magnetic field}
     To illustrate how pseudo magnetic field affects the tunneling behaviors compared to their real counterpart,
     the transmissions under the effect of pseudo and real magnetic fields are plotted as shown in Fig.\ref{fig:pseudo}.
+    First consider the case $U \gg E_F$, we found that when the tilted parameter is small, the transmission profiles between the two systems are almost identical, as shown in Fig. \ref{fig:pseudo1}, which confirms the existence of pseudo-MVP. 
+    However, the pseudo-MVP is valid only if the strength of the tilt is small. 
+    Otherwise, the transmission profiles would become distinguishable, as shown in Fig. \ref{fig:pseudo2}. 
+    The same applies in the case of potential barrier $U=0$, where the pseudo-MVP occurs when $w_0$ is small and becomes weak as $w_0$ increase as shown in Fig. \ref{fig:pseudo3}-\subref{fig:pseudo4}. 
 
     \begin{figure}[H] %Pseudo B field 
     \centering
@@ -193,6 +227,5 @@ The calculation of transmission probability is carried out using Eq. \ref{eq:tp}
 
 
 
-\section{The key consequence of the mismatch effect}
-    The magnetic field strength are related to the magnitude of the tilt.
+
     
