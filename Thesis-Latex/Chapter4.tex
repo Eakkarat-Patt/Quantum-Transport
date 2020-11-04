@@ -86,7 +86,7 @@ The calculation of transmission probability is carried out using Eq. \ref{eq:tp}
         \frac{d w_{0\pm}}{dU} &= \frac{d}{dU} \left(\frac{U-E_F}{\hbar v_F k \sin{\phi}}\mp \sqrt{1+\left(\frac{n \pi}{k L \sin{\phi}}\right)^2}\right) \notag \\
                               &= \frac{1}{\hbar v_F k \sin{\phi}}.
     \end{align}
-    Eq. \ref{eq:dw wrt U} indicates that the tilted parameter is linearly proportional to gate voltage
+    Eq. \ref{eq:dw wrt U} indicates that the tilted parameter is linearly proportional to gate voltage.
     \begin{figure}[H]
         \centering
             \includegraphics[width=\linewidth]{fig/tp Ef = 0.08 e1 = 0 e2 = 0.05 e3 = 0.1.png}
@@ -99,8 +99,19 @@ The calculation of transmission probability is carried out using Eq. \ref{eq:tp}
     The method can be applied to any resonance condition given that we have known its corresponding resonant tunneling angle.
     However, it is still not a practical method since the parameter $n$ is unobservable.
     Also, most device configurations have fixed angled probes to observe the resonant tunneling current.
-    In this section, we revisit this study again and eliminate the drawbacks mentioned above.
+    In this section, we revisit this study again and eliminate the drawbacks mentioned above.\\
     
+    We have discussed earlier in section \ref{sec:oscillation} that the relation of $w_0$ and $U$ are linear with the slope of $1/\hbar v_F k \sin{\phi}$.
+    For this reason, we can identify the tilted strength by measuring the difference between two voltages satisfied the same resonance condition.
+    \begin{align} \label{eq:w0 2}
+        \Delta w = \frac{\Delta U}{\hbar v_F k_y}
+    \end{align}
+    To apply Eq. \ref{eq:w0 2} to determine the tilted parameter, the voltages satisfied the same resonance condition have to be first determined,
+    which can be achieved using the device structure depicted in Fig. \ref{fig:3 arms}. We have to tune $U$ until the resonant tunneling occurs at $\phi = \pi/4$,
+    where the electron current can be measured as shown in Fig. \ref{fig:tp at 45 deg}.
+    The voltage at which the resonant tunneling occurs at $\phi = \pi/4$ for the case of non-tilted Dirac cone can be easily obtained since it is the system found in pristine graphene.
+    Substituting these gate voltages to Eq. \ref{eq:w0 2} we obtain $w_0 =0.1$
+    %we can have 
     %we apply the linear relation of $w_0$ and $U$, that we discussed in section \ref{sec:oscillation}, 
     %We can pick any of these resonance condition and find its corresponding gate voltage
     %the tilted parameter can be identified by calculating the voltage difference of that resonance condition 

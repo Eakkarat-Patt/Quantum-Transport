@@ -20,7 +20,7 @@
 \contentsline {section}{\numberline {4.2}The tilted strength identification by means of the tunneling resonance properties}{5}%
 \contentsline {section}{\numberline {4.3}Oscillatory behavior of electron resonant tunneling}{6}%
 \contentsline {section}{\numberline {4.4}Revisit: The tilted strength identification by means of the tunneling resonance properties}{7}%
-\contentsline {section}{\numberline {4.5}Pseudo magnetic field}{8}%
+\contentsline {section}{\numberline {4.5}Pseudo magnetic field}{9}%
 \contentsline {section}{\numberline {4.6}Transmission under the influence of pseudo magnetic field}{9}%
 \contentsline {section}{\numberline {4.7}The key consequence of the mismatch effect}{10}%
 \addvspace {10\p@ }
