@@ -13,17 +13,20 @@
 \contentsline {kmuttchapter}{\numberline {\bf 2.}{\bf THEORETICAL BACKGROUND}}{2}%
 \addvspace {10\p@ }
 \contentsline {kmuttchapter}{\numberline {\bf 3.}{\bf MODEL AND METHOD}}{3}%
-\contentsline {section}{\numberline {3.1}Transmission probability of electron in tilted Dirac cone}{3}%
+\contentsline {section}{\numberline {3.1}Field-Effect transistor}{3}%
+\contentsline {section}{\numberline {3.2}Transmission probability of electron in tilted Dirac cone}{4}%
+\contentsline {section}{\numberline {3.3}The elliptic Fermi surface of tilted Dirac cone}{6}%
+\contentsline {section}{\numberline {3.4}Angular dependent wavevector of tilted Dirac cone}{6}%
 \addvspace {10\p@ }
-\contentsline {kmuttchapter}{\numberline {\bf 4.}{\bf RESULT AND DISCUSSION}}{4}%
-\contentsline {section}{\numberline {4.1}Angular dependent of transmission probability}{4}%
-\contentsline {section}{\numberline {4.2}The tilted strength identification by means of the tunneling resonance properties}{5}%
-\contentsline {section}{\numberline {4.3}Oscillatory behavior of electron resonant tunneling}{6}%
-\contentsline {section}{\numberline {4.4}Revisit: The tilted strength identification by means of the tunneling resonance properties}{7}%
-\contentsline {section}{\numberline {4.5}Pseudo magnetic field}{9}%
-\contentsline {section}{\numberline {4.6}The key consequence of the mismatch effect}{9}%
-\contentsline {section}{\numberline {4.7}Transmission under the influence of pseudo magnetic field}{11}%
+\contentsline {kmuttchapter}{\numberline {\bf 4.}{\bf RESULT AND DISCUSSION}}{8}%
+\contentsline {section}{\numberline {4.1}Angular dependent of transmission probability}{8}%
+\contentsline {section}{\numberline {4.2}The tilted strength identification by means of the tunneling resonance properties}{9}%
+\contentsline {section}{\numberline {4.3}Oscillatory behavior of electron resonant tunneling}{10}%
+\contentsline {section}{\numberline {4.4}Revisit: The tilted strength identification by means of the tunneling resonance properties}{11}%
+\contentsline {section}{\numberline {4.5}Pseudo magnetic field}{13}%
+\contentsline {section}{\numberline {4.6}The key consequence of the mismatch effect}{13}%
+\contentsline {section}{\numberline {4.7}Transmission under the influence of pseudo magnetic field}{15}%
 \addvspace {10\p@ }
-\contentsline {kmuttchapter}{\numberline {\bf 5.}{\bf CONCLUSION}}{13}%
-\contentsline {chapter}{REFERENCES}{14}%
-\contentsline {chapter}{BIOGRAPHY}{15}%
+\contentsline {kmuttchapter}{\numberline {\bf 5.}{\bf CONCLUSION}}{17}%
+\contentsline {chapter}{REFERENCES}{18}%
+\contentsline {chapter}{BIOGRAPHY}{19}%

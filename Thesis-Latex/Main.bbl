@@ -1,10 +1,24 @@
 \begin{thebibliography}{1}
 
-\bibitem{Novoselov2005}
-K.~S. Novoselov, A.~K. Geim, S.~V. Morozov, D.~Jiang, M.~I. Katsnelson, I.~V.
-  Grigorieva, S.~V. Dubonos, and A.~A. Firsov,
-\newblock ``{Two-dimensional gas of massless Dirac fermions in graphene},''
-\newblock {\bf Nature}, vol. 438, no. 7065, pp. 197--200, nov 2005.
+\bibitem{Abergel2009}
+D.~S.L. Abergel and Tapash Chakraborty,
+\newblock ``{Generation of valley polarized current in bilayer graphene},''
+\newblock {\bf Applied Physics Letters}, vol. 95, no. 6, pp. 10--13, 2009.
+
+\bibitem{Huard2007}
+B.~Huard, J.~A. Sulpizio, N.~Stander, K.~Todd, B.~Yang, and
+  D.~Goldhaber-Gordon,
+\newblock ``{Transport measurements across a tunable potential barrier in
+  graphene},''
+\newblock {\bf Physical Review Letters}, vol. 98, no. 23, pp. 8--11, 2007.
+
+\bibitem{Perera2013}
+Meeghage~Madusanka Perera, Ming~Wei Lin, Hsun~Jen Chuang, Bhim~Prasad
+  Chamlagain, Chongyu Wang, Xuebin Tan, Mark Ming~Cheng Cheng, David
+  Tom{\'{a}}nek, and Zhixian Zhou,
+\newblock ``{Improved carrier mobility in few-layer MoS2 field-effect
+  transistors with ionic-liquid gating},''
+\newblock {\bf ACS Nano}, vol. 7, no. 5, pp. 4449--4458, 2013.
 
 \bibitem{Rahman2015}
 Atikur Rahman, Janice~Wynn Guikema, Nora~M. Hassan, and Nina Markovi{\'{c}},
