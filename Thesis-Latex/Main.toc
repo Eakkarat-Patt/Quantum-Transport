@@ -12,22 +12,24 @@
 \addvspace {10\p@ }
 \contentsline {kmuttchapter}{\numberline {\bf 2.}{\bf THEORETICAL BACKGROUND}}{2}%
 \contentsline {section}{\numberline {2.1}Klein tunneling effect}{2}%
+\contentsline {section}{\numberline {2.2}Electronic transport of electron in graphene under the influence of magnetic field}{4}%
+\contentsline {section}{\numberline {2.3}Asymmetric tunneling of electron in tilted Weyl cone systems}{4}%
 \addvspace {10\p@ }
-\contentsline {kmuttchapter}{\numberline {\bf 3.}{\bf MODEL AND METHOD}}{4}%
-\contentsline {section}{\numberline {3.1}Field-Effect transistor}{4}%
-\contentsline {section}{\numberline {3.2}Transmission probability of electron in tilted Dirac cone}{5}%
-\contentsline {section}{\numberline {3.3}The elliptic Fermi surface of tilted Dirac cone}{7}%
-\contentsline {section}{\numberline {3.4}Angular dependent wavevector of tilted Dirac cone}{7}%
+\contentsline {kmuttchapter}{\numberline {\bf 3.}{\bf MODEL AND METHOD}}{9}%
+\contentsline {section}{\numberline {3.1}Field-Effect transistor}{9}%
+\contentsline {section}{\numberline {3.2}Transmission probability of electron in tilted Dirac cone}{10}%
+\contentsline {section}{\numberline {3.3}The elliptic Fermi surface of tilted Dirac cone}{12}%
+\contentsline {section}{\numberline {3.4}Angular dependent wavevector of tilted Dirac cone}{12}%
 \addvspace {10\p@ }
-\contentsline {kmuttchapter}{\numberline {\bf 4.}{\bf RESULT AND DISCUSSION}}{9}%
-\contentsline {section}{\numberline {4.1}Angular dependent of transmission probability}{9}%
-\contentsline {section}{\numberline {4.2}The tilted strength identification by means of the tunneling resonance properties}{10}%
-\contentsline {section}{\numberline {4.3}Oscillatory behavior of electron resonant tunneling}{11}%
-\contentsline {section}{\numberline {4.4}Revisit: The tilted strength identification by means of the tunneling resonance properties}{12}%
-\contentsline {section}{\numberline {4.5}Pseudo magnetic field}{14}%
-\contentsline {section}{\numberline {4.6}The key consequence of the mismatch effect}{14}%
-\contentsline {section}{\numberline {4.7}Transmission under the influence of pseudo magnetic field}{16}%
+\contentsline {kmuttchapter}{\numberline {\bf 4.}{\bf RESULT AND DISCUSSION}}{14}%
+\contentsline {section}{\numberline {4.1}Angular dependent of transmission probability}{14}%
+\contentsline {section}{\numberline {4.2}The tilted strength identification by means of the tunneling resonance properties}{15}%
+\contentsline {section}{\numberline {4.3}Oscillatory behavior of electron resonant tunneling}{16}%
+\contentsline {section}{\numberline {4.4}Revisit: The tilted strength identification by means of the tunneling resonance properties}{17}%
+\contentsline {section}{\numberline {4.5}Pseudo magnetic field}{19}%
+\contentsline {section}{\numberline {4.6}The key consequence of the mismatch effect}{19}%
+\contentsline {section}{\numberline {4.7}Transmission under the influence of pseudo magnetic field}{21}%
 \addvspace {10\p@ }
-\contentsline {kmuttchapter}{\numberline {\bf 5.}{\bf CONCLUSION}}{18}%
-\contentsline {chapter}{REFERENCES}{20}%
-\contentsline {chapter}{BIOGRAPHY}{21}%
+\contentsline {kmuttchapter}{\numberline {\bf 5.}{\bf CONCLUSION}}{23}%
+\contentsline {chapter}{REFERENCES}{25}%
+\contentsline {chapter}{BIOGRAPHY}{26}%
