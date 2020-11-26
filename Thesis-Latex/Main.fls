@@ -62,6 +62,8 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/caption/subcaption.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/caption/subcaption.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/cleveref/cleveref.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/cleveref/cleveref.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/braket/braket.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/braket/braket.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/epsf/epsf.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/epsf/epsf.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
@@ -128,19 +130,63 @@ INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Chapter1.t
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Chapter1.tex
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Chapter2.tex
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Chapter2.tex
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/electron propagation.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/electron propagation.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/electron propagation.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/klein tunneling.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/klein tunneling.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/klein tunneling.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/2transistor.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/2transistor.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/2transistor.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous1.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous1.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous1.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/band structure of graphene.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/band structure of graphene.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/band structure of graphene.png
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx8.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx6.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib8.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib6.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy8.tfm
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/Type I .png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/Type I .png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/Type I .png
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/Type I tilted.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/Type I tilted.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/Type I tilted.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/Type III.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/Type III.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/Type III.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/Type II.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/Type II.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/Type II.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/electron propagation.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/electron propagation.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/electron propagation.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/klein tunneling.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/klein tunneling.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/klein tunneling.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/2weyl structure.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/2weyl structure.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/2weyl structure.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/B field profile.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/B field profile.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/B field profile.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/three weyl cones.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/three weyl cones.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/three weyl cones.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/klein b field 1.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/klein b field 1.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/klein b field 1.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/klein b field 2.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/klein b field 2.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/klein b field 2.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/2transistor.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/2transistor.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/2transistor.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous fermi surface1.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous fermi surface1.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous fermi surface1.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous fermi surface2.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous fermi surface2.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous fermi surface2.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous1.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous1.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous1.png
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous2.png
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous2.png
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous2.png
@@ -156,17 +202,14 @@ INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous6.png
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous6.png
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous6.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous fermi surface1.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous fermi surface1.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous fermi surface1.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous fermi surface2.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous fermi surface2.png
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous fermi surface2.png
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Chapter3.tex
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Chapter3.tex
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Transistor.png
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Transistor.png
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Transistor.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/elliptic fermi surface.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/elliptic fermi surface.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/elliptic fermi surface.png
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Chapter4.tex
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Chapter4.tex
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tunneling shift/U0.02.png
@@ -212,6 +255,7 @@ INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Chapter5.t
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Chapter5.tex
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.bbl
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.bbl
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmti12.tfm
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Biography.tex
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Biography.tex
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
@@ -227,11 +271,12 @@ INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.p
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb

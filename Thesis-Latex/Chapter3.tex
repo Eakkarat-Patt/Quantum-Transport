@@ -9,7 +9,7 @@ The tunneling properties considered here are in low energy limit, in which the i
     For the barrier profile, we use rectangular potential barrier.
     \begin{figure}[H]
         \centering
-        \includegraphics[width=\linewidth]{fig/Transistor.png}
+        \includegraphics[width=0.6\linewidth]{fig/Transistor.png}
         \caption{Schematic illustration of Dirac material n-p-n heterojunctions with the mismatch of Dirac cone. 
                     The position of Fermi energy level $E_F$ can be controlled by tuning the voltage through potential gate of length $L$.}
         \label{fig:transistor}
@@ -84,8 +84,15 @@ The tunneling properties considered here are in low energy limit, in which the i
         T=\frac{\cos^2 \theta \cos^2 \phi}{\cos^2 (L q_x) \cos^2 \theta \cos^2 \phi + \sin^2 (Lq_x)(1-ss'\sin \theta \sin \phi )^2}
     \end{equation}
 \section{The elliptic Fermi surface of tilted Dirac cone} \label{sec:elliptic fermi surface}
-    When the Dirac cone is tilted, we obtain the elliptic Fermi surface in which the wavevector of electron is directional-dependent.
+    When the Dirac cone is tilted, we obtain the elliptic Fermi surface in which the wavevector of electron is directional-dependent as shown in Fig. \ref{fig:elliptic fermi surface}.
+    In other word, the length of vector $k$ varied as it rotate along the elliptic Fermi surface(dashed line).
     To understand relation between the electron wavevector and its incident angle $\phi$, we consider the elliptic equation with the major axis of the ellipse is in y-direction.
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width = 0.6\linewidth]{fig/elliptic fermi surface.png}
+        \caption{The cross-sectional area of non-tilted and tilted Dirac cone with $w_0 = 0.5$ represented by solid and dashed line, respectively.}
+        \label{fig:elliptic fermi surface}
+    \end{figure}
     \begin{align} \label{eq:elliptic eq}
         \frac{k_x^2}{k_a^2} + \frac{k_y^2}{k_b^2} = 1
     \end{align}
@@ -136,4 +143,30 @@ The tunneling properties considered here are in low energy limit, in which the i
     \begin{align} \label{eq:k vs phi final}
         k = \frac{k_b(1-w_0^2)}{1+w_0 \sin{\phi}} = \frac{E_F - U}{\eta \hbar v_F (1+w_0 \sin{\phi})}
     \end{align}
-    where $w_0$ here in this case is called tilted parameter.
+    where $w_0$ here in this case is called tilted parameter. 
+    Eq. \ref{eq:k vs phi final} is the angular dependent wavevector outside the barrier as a function of incident angle $\phi$.
+    Similarly, the wavevector inside the barrier region can be written as
+    \begin{equation} \label{eq:q vs theta}
+        q = \frac{E_F - U}{\eta \hbar v_F (1+w_0 \sin{\theta})}
+    \end{equation}
+    where $\theta$ is the refracted angle of electron inside the barrier. 
+    This angle depends on the incident angle $\phi$, which can be obtained by considering the conservation of transverse wavevector
+    \begin{equation} \label{eq:theta}
+        \begin{aligned}
+            q_y&=k_y\\
+            q\sin{\theta} &= k \sin{\phi}\\
+            \theta &= \sin^{-1}\left(\frac{k}{q}{\sin{\phi}}\right).\\
+        \end{aligned}
+    \end{equation}
+    Substitute $\theta$ that we derived above to Eq. \ref{eq:q vs theta}, we obtain
+    \begin{equation} \label{eq:q}
+        q = \frac{E_F-U}{\hbar v_F s^{\prime}}+\frac{w_0 k_y}{s^{\prime}},
+    \end{equation}
+    and the their x-component can be written as
+    \begin{equation} \label{eq:qx}
+        \begin{aligned}
+        q_x &= \sqrt{q^2-q_y^2}\\
+        q_x &= \sqrt{\left(\frac{E_F-U}{\hbar v_F}+w_0 k_y\right)^2-k_y^2}.\\
+        \end{aligned}
+    \end{equation}
+

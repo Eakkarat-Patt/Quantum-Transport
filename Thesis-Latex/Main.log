@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.7.17)  19 NOV 2020 21:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.7.17)  26 NOV 2020 17:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -184,7 +184,7 @@ Package: subcaption 2020/01/22 v1.3d Sub-captions (AR)
 \c@subtable=\count196
 ) (/usr/local/texlive/2020/texmf-dist/tex/latex/cleveref/cleveref.sty
 Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
-) (/usr/local/texlive/2020/texmf-dist/tex/generic/epsf/epsf.sty
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/braket/braket.sty) (/usr/local/texlive/2020/texmf-dist/tex/generic/epsf/epsf.sty
 This is `epsf.tex' v2.7.4 <14 February 2011>
 \epsffilein=\read2
 \epsfframemargin=\dimen161
@@ -202,20 +202,20 @@ File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 ) (/Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.aux)
 \openout1 = `Main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
  (/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count198
@@ -297,7 +297,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 20.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (4.43869pt too wide) in paragraph at lines 20--35
+Overfull \hbox (29.47038pt too wide) in paragraph at lines 20--38
 [] 
  []
 
@@ -309,11 +309,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--9
 ) [3]
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <15> not available
-(Font)              size <14.4> substituted on input line 49.
+(Font)              size <14.4> substituted on input line 50.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <15> not available
-(Font)              size <14.4> substituted on input line 49.
+(Font)              size <14.4> substituted on input line 50.
 
 (/Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.toc [4
 
@@ -321,202 +321,288 @@ LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <15> not available
 \tf@toc=\write3
 \openout3 = `Main.toc'.
 
- [5] (/Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.lof [6
+ [5] (/Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.lof
+Overfull \hbox (10.0389pt too wide) in paragraph at lines 8--8
+ [][] []\OT1/cmr/m/n/12 The schematic il-lus-tra-tion of the sin-gle po-ten-tial bar-rier Weyl semimetal 
+ []
 
-])
+[6
+
+] [7])
 \tf@lof=\write4
 \openout4 = `Main.lof'.
 
- [7] (/Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Chapter1.tex
+ [8] (/Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Chapter1.tex
 CHAPTER 1.
-) (/Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Chapter2.tex [1
 
-]
+Underfull \hbox (badness 10000) in paragraph at lines 3--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--22
+
+ []
+
+[1
+
+]) (/Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Chapter2.tex [2]
 CHAPTER 2.
-<fig/Chap 2/electron propagation.png, id=39, 173.448pt x 50.80582pt>
+<fig/Chap 2/band structure of graphene.png, id=46, 519.9425pt x 279.0425pt>
+File: fig/Chap 2/band structure of graphene.png Graphic file (type png)
+<use fig/Chap 2/band structure of graphene.png>
+Package pdftex.def Info: fig/Chap 2/band structure of graphene.png  used on input line 20.
+(pdftex.def)             Requested size: 341.43437pt x 183.2404pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--24
+
+ []
+
+[3
+
+] [4 </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/band structure of graphene.png>]
+<fig/Chap 2/Type I .png, id=58, 269.005pt x 437.635pt>
+File: fig/Chap 2/Type I .png Graphic file (type png)
+<use fig/Chap 2/Type I .png>
+Package pdftex.def Info: fig/Chap 2/Type I .png  used on input line 66.
+(pdftex.def)             Requested size: 85.35696pt x 138.86409pt.
+<fig/Chap 2/Type I tilted.png, id=59, 269.005pt x 437.635pt>
+File: fig/Chap 2/Type I tilted.png Graphic file (type png)
+<use fig/Chap 2/Type I tilted.png>
+Package pdftex.def Info: fig/Chap 2/Type I tilted.png  used on input line 71.
+(pdftex.def)             Requested size: 85.35696pt x 138.86409pt.
+<fig/Chap 2/Type III.png, id=60, 269.005pt x 437.635pt>
+File: fig/Chap 2/Type III.png Graphic file (type png)
+<use fig/Chap 2/Type III.png>
+Package pdftex.def Info: fig/Chap 2/Type III.png  used on input line 76.
+(pdftex.def)             Requested size: 85.35696pt x 138.86409pt.
+<fig/Chap 2/Type II.png, id=61, 269.005pt x 437.635pt>
+File: fig/Chap 2/Type II.png Graphic file (type png)
+<use fig/Chap 2/Type II.png>
+Package pdftex.def Info: fig/Chap 2/Type II.png  used on input line 81.
+(pdftex.def)             Requested size: 85.35696pt x 138.86409pt.
+ [5 </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/Type I .png> </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/Type I tilted.png> </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/Type III.png> </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/Type II.png>]
+<fig/Chap 2/electron propagation.png, id=70, 173.448pt x 50.80582pt>
 File: fig/Chap 2/electron propagation.png Graphic file (type png)
 <use fig/Chap 2/electron propagation.png>
-Package pdftex.def Info: fig/Chap 2/electron propagation.png  used on input line 16.
+Package pdftex.def Info: fig/Chap 2/electron propagation.png  used on input line 117.
 (pdftex.def)             Requested size: 298.75264pt x 87.51451pt.
-[2
-
- </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/electron propagation.png>]
-<fig/Chap 2/klein tunneling.png, id=47, 123.36488pt x 223.89246pt>
+ [6 </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/electron propagation.png>]
+<fig/Chap 2/klein tunneling.png, id=76, 123.36488pt x 223.89246pt>
 File: fig/Chap 2/klein tunneling.png Graphic file (type png)
 <use fig/Chap 2/klein tunneling.png>
-Package pdftex.def Info: fig/Chap 2/klein tunneling.png  used on input line 60.
+Package pdftex.def Info: fig/Chap 2/klein tunneling.png  used on input line 161.
 (pdftex.def)             Requested size: 128.0387pt x 232.38145pt.
- [3] [4 </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/klein tunneling.png>]
-<fig/Chap 2/2transistor.png, id=57, 487.8225pt x 452.69125pt>
+ [7]
+<fig/Chap 2/2weyl structure.png, id=81, 458.71375pt x 153.57375pt>
+File: fig/Chap 2/2weyl structure.png Graphic file (type png)
+<use fig/Chap 2/2weyl structure.png>
+Package pdftex.def Info: fig/Chap 2/2weyl structure.png  used on input line 177.
+(pdftex.def)             Requested size: 256.07741pt x 85.7359pt.
+<fig/Chap 2/B field profile.png, id=82, 478.78876pt x 99.37125pt>
+File: fig/Chap 2/B field profile.png Graphic file (type png)
+<use fig/Chap 2/B field profile.png>
+Package pdftex.def Info: fig/Chap 2/B field profile.png  used on input line 182.
+(pdftex.def)             Requested size: 256.07741pt x 53.14868pt.
+<fig/Chap 2/three weyl cones.png, id=83, 504.88625pt x 209.78375pt>
+File: fig/Chap 2/three weyl cones.png Graphic file (type png)
+<use fig/Chap 2/three weyl cones.png>
+Package pdftex.def Info: fig/Chap 2/three weyl cones.png  used on input line 187.
+(pdftex.def)             Requested size: 256.07741pt x 106.4025pt.
+ [8 </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/klein tunneling.png>] [9 </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/2weyl structure.png> </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/B field profile.png> </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/three weyl cones.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 261--263
+
+ []
+
+[10]
+<fig/Chap 2/klein b field 1.png, id=99, 497.86pt x 613.29124pt>
+File: fig/Chap 2/klein b field 1.png Graphic file (type png)
+<use fig/Chap 2/klein b field 1.png>
+Package pdftex.def Info: fig/Chap 2/klein b field 1.png  used on input line 281.
+(pdftex.def)             Requested size: 170.71393pt x 210.29428pt.
+<fig/Chap 2/klein b field 2.png, id=100, 492.84125pt x 604.2575pt>
+File: fig/Chap 2/klein b field 2.png Graphic file (type png)
+<use fig/Chap 2/klein b field 2.png>
+Package pdftex.def Info: fig/Chap 2/klein b field 2.png  used on input line 286.
+(pdftex.def)             Requested size: 170.71393pt x 209.3081pt.
+ [11] [12 </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/klein b field 1.png> </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/klein b field 2.png>]
+<fig/Chap 2/2transistor.png, id=109, 487.8225pt x 452.69125pt>
 File: fig/Chap 2/2transistor.png Graphic file (type png)
 <use fig/Chap 2/2transistor.png>
-Package pdftex.def Info: fig/Chap 2/2transistor.png  used on input line 113.
+Package pdftex.def Info: fig/Chap 2/2transistor.png  used on input line 340.
 (pdftex.def)             Requested size: 256.07741pt x 237.63882pt.
- [5 </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/2transistor.png>]
-<fig/Chap 2/anomalous1.png, id=64, 641.39626pt x 582.175pt>
-File: fig/Chap 2/anomalous1.png Graphic file (type png)
-<use fig/Chap 2/anomalous1.png>
-Package pdftex.def Info: fig/Chap 2/anomalous1.png  used on input line 154.
-(pdftex.def)             Requested size: 170.71393pt x 154.95076pt.
-<fig/Chap 2/anomalous2.png, id=65, 641.39626pt x 582.175pt>
-File: fig/Chap 2/anomalous2.png Graphic file (type png)
-<use fig/Chap 2/anomalous2.png>
-Package pdftex.def Info: fig/Chap 2/anomalous2.png  used on input line 159.
-(pdftex.def)             Requested size: 170.71393pt x 154.95076pt.
-<fig/Chap 2/anomalous3.png, id=66, 541.02126pt x 456.70625pt>
-File: fig/Chap 2/anomalous3.png Graphic file (type png)
-<use fig/Chap 2/anomalous3.png>
-Package pdftex.def Info: fig/Chap 2/anomalous3.png  used on input line 165.
-(pdftex.def)             Requested size: 170.71393pt x 144.10713pt.
-<fig/Chap 2/anomalous4.png, id=67, 541.02126pt x 456.70625pt>
-File: fig/Chap 2/anomalous4.png Graphic file (type png)
-<use fig/Chap 2/anomalous4.png>
-Package pdftex.def Info: fig/Chap 2/anomalous4.png  used on input line 170.
-(pdftex.def)             Requested size: 170.71393pt x 144.10713pt.
-<fig/Chap 2/anomalous5.png, id=68, 641.39626pt x 582.175pt>
-File: fig/Chap 2/anomalous5.png Graphic file (type png)
-<use fig/Chap 2/anomalous5.png>
-Package pdftex.def Info: fig/Chap 2/anomalous5.png  used on input line 176.
-(pdftex.def)             Requested size: 170.71393pt x 154.95076pt.
-<fig/Chap 2/anomalous6.png, id=69, 641.39626pt x 582.175pt>
-File: fig/Chap 2/anomalous6.png Graphic file (type png)
-<use fig/Chap 2/anomalous6.png>
-Package pdftex.def Info: fig/Chap 2/anomalous6.png  used on input line 181.
-(pdftex.def)             Requested size: 170.71393pt x 154.95076pt.
- [6]
-<fig/Chap 2/anomalous fermi surface1.png, id=74, 413.545pt x 578.16pt>
+ [13 </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/2transistor.png>]
+<fig/Chap 2/anomalous fermi surface1.png, id=114, 413.545pt x 578.16pt>
 File: fig/Chap 2/anomalous fermi surface1.png Graphic file (type png)
 <use fig/Chap 2/anomalous fermi surface1.png>
-Package pdftex.def Info: fig/Chap 2/anomalous fermi surface1.png  used on input line 192.
+Package pdftex.def Info: fig/Chap 2/anomalous fermi surface1.png  used on input line 380.
 (pdftex.def)             Requested size: 170.71393pt x 238.67038pt.
-<fig/Chap 2/anomalous fermi surface2.png, id=75, 413.545pt x 578.16pt>
+<fig/Chap 2/anomalous fermi surface2.png, id=115, 413.545pt x 578.16pt>
 File: fig/Chap 2/anomalous fermi surface2.png Graphic file (type png)
 <use fig/Chap 2/anomalous fermi surface2.png>
-Package pdftex.def Info: fig/Chap 2/anomalous fermi surface2.png  used on input line 197.
+Package pdftex.def Info: fig/Chap 2/anomalous fermi surface2.png  used on input line 385.
 (pdftex.def)             Requested size: 170.71393pt x 238.67038pt.
-) (/Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Chapter3.tex [7 </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous1.png> </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous2.png> </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous3.png> </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous4.png> </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous5.png> </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous6.png>] [8 </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous fermi surface1.png> </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous fermi surface2.png>]
+ [14]
+<fig/Chap 2/anomalous1.png, id=119, 641.39626pt x 582.175pt>
+File: fig/Chap 2/anomalous1.png Graphic file (type png)
+<use fig/Chap 2/anomalous1.png>
+Package pdftex.def Info: fig/Chap 2/anomalous1.png  used on input line 399.
+(pdftex.def)             Requested size: 170.71393pt x 154.95076pt.
+<fig/Chap 2/anomalous2.png, id=120, 641.39626pt x 582.175pt>
+File: fig/Chap 2/anomalous2.png Graphic file (type png)
+<use fig/Chap 2/anomalous2.png>
+Package pdftex.def Info: fig/Chap 2/anomalous2.png  used on input line 404.
+(pdftex.def)             Requested size: 170.71393pt x 154.95076pt.
+<fig/Chap 2/anomalous3.png, id=121, 541.02126pt x 456.70625pt>
+File: fig/Chap 2/anomalous3.png Graphic file (type png)
+<use fig/Chap 2/anomalous3.png>
+Package pdftex.def Info: fig/Chap 2/anomalous3.png  used on input line 410.
+(pdftex.def)             Requested size: 170.71393pt x 144.10713pt.
+<fig/Chap 2/anomalous4.png, id=122, 541.02126pt x 456.70625pt>
+File: fig/Chap 2/anomalous4.png Graphic file (type png)
+<use fig/Chap 2/anomalous4.png>
+Package pdftex.def Info: fig/Chap 2/anomalous4.png  used on input line 415.
+(pdftex.def)             Requested size: 170.71393pt x 144.10713pt.
+<fig/Chap 2/anomalous5.png, id=123, 641.39626pt x 582.175pt>
+File: fig/Chap 2/anomalous5.png Graphic file (type png)
+<use fig/Chap 2/anomalous5.png>
+Package pdftex.def Info: fig/Chap 2/anomalous5.png  used on input line 421.
+(pdftex.def)             Requested size: 170.71393pt x 154.95076pt.
+<fig/Chap 2/anomalous6.png, id=124, 641.39626pt x 582.175pt>
+File: fig/Chap 2/anomalous6.png Graphic file (type png)
+<use fig/Chap 2/anomalous6.png>
+Package pdftex.def Info: fig/Chap 2/anomalous6.png  used on input line 426.
+(pdftex.def)             Requested size: 170.71393pt x 154.95076pt.
+) (/Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Chapter3.tex [15 </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous fermi surface1.png> </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous fermi surface2.png>] [16 </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous1.png> </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous2.png> </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous3.png> </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous4.png> </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous5.png> </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/anomalous6.png>]
 CHAPTER 3.
-<fig/Transistor.png, id=91, 1157.32375pt x 879.285pt>
+<fig/Transistor.png, id=140, 1157.32375pt x 879.285pt>
 File: fig/Transistor.png Graphic file (type png)
 <use fig/Transistor.png>
 Package pdftex.def Info: fig/Transistor.png  used on input line 12.
-(pdftex.def)             Requested size: 426.79135pt x 324.25702pt.
-[9
+(pdftex.def)             Requested size: 256.07741pt x 194.55688pt.
+[17
 
-] [10 </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Transistor.png>] [11]
-Overfull \hbox (35.84209pt too wide) detected at line 99
+ </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Transistor.png>] [18]
+<fig/elliptic fermi surface.png, id=148, 894.34125pt x 1072.005pt>
+File: fig/elliptic fermi surface.png Graphic file (type png)
+<use fig/elliptic fermi surface.png>
+Package pdftex.def Info: fig/elliptic fermi surface.png  used on input line 92.
+(pdftex.def)             Requested size: 256.07741pt x 306.9477pt.
+ [19]
+Overfull \hbox (35.84209pt too wide) detected at line 106
 \OML/cmm/m/it/12 k[]k[] \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 k[]k[] [][] ^^^ \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 k[]\OT1/cmr/m/n/12 (1 \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 w[]\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 k[] [][] ^^^ \OT1/cmr/m/n/12 + 2\OML/cmm/m/it/12 k[]\OT1/cmr/m/n/12 (1 \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 w[]\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 kk[]w[] [] ^^^ \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 k[]\OT1/cmr/m/n/12 (1 \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 w[]\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 k[]w[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 k[]\OT1/cmr/m/n/12 (1 \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 w[]\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 k[]
  []
 
-[12]) (/Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Chapter4.tex [13]
+[20 </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/elliptic fermi surface.png>] [21]) (/Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Chapter4.tex [22]
 CHAPTER 4.
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--21
+Underfull \hbox (badness 10000) in paragraph at lines 15--20
 
  []
 
-<fig/tunneling shift/U0.02.png, id=109, 272.24109pt x 479.94507pt>
+<fig/tunneling shift/U0.02.png, id=163, 272.24109pt x 479.94507pt>
 File: fig/tunneling shift/U0.02.png Graphic file (type png)
 <use fig/tunneling shift/U0.02.png>
-Package pdftex.def Info: fig/tunneling shift/U0.02.png  used on input line 29.
+Package pdftex.def Info: fig/tunneling shift/U0.02.png  used on input line 28.
 (pdftex.def)             Requested size: 128.0387pt x 225.728pt.
-<fig/tunneling shift/U0.07.png, id=110, 271.22931pt x 479.94507pt>
+<fig/tunneling shift/U0.07.png, id=164, 271.22931pt x 479.94507pt>
 File: fig/tunneling shift/U0.07.png Graphic file (type png)
 <use fig/tunneling shift/U0.07.png>
-Package pdftex.def Info: fig/tunneling shift/U0.07.png  used on input line 34.
+Package pdftex.def Info: fig/tunneling shift/U0.07.png  used on input line 33.
 (pdftex.def)             Requested size: 128.0387pt x 226.57019pt.
-<fig/tunneling shift/U0.2.png, id=111, 269.92845pt x 479.43918pt>
+<fig/tunneling shift/U0.2.png, id=165, 269.92845pt x 479.43918pt>
 File: fig/tunneling shift/U0.2.png Graphic file (type png)
 <use fig/tunneling shift/U0.2.png>
-Package pdftex.def Info: fig/tunneling shift/U0.2.png  used on input line 40.
+Package pdftex.def Info: fig/tunneling shift/U0.2.png  used on input line 39.
 (pdftex.def)             Requested size: 128.0387pt x 227.4214pt.
-<fig/tunneling shift/U0.285.png, id=112, 270.07298pt x 479.22237pt>
+<fig/tunneling shift/U0.285.png, id=166, 270.07298pt x 479.22237pt>
 File: fig/tunneling shift/U0.285.png Graphic file (type png)
 <use fig/tunneling shift/U0.285.png>
-Package pdftex.def Info: fig/tunneling shift/U0.285.png  used on input line 45.
+Package pdftex.def Info: fig/tunneling shift/U0.285.png  used on input line 44.
 (pdftex.def)             Requested size: 128.0387pt x 227.20155pt.
-[14
+[23
 
-] [15 </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tunneling shift/U0.02.png> </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tunneling shift/U0.07.png> </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tunneling shift/U0.2.png> </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tunneling shift/U0.285.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 62--68
+] [24 </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tunneling shift/U0.02.png> </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tunneling shift/U0.07.png> </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tunneling shift/U0.2.png> </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tunneling shift/U0.285.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 63--69
 
  []
 
-<fig/tp Ef = 0.08 e1 = 0 e2 = 0.05 e3 = 0.1.png, id=123, 939.51pt x 650.43pt>
+[25]
+<fig/tp Ef = 0.08 e1 = 0 e2 = 0.05 e3 = 0.1.png, id=180, 939.51pt x 650.43pt>
 File: fig/tp Ef = 0.08 e1 = 0 e2 = 0.05 e3 = 0.1.png Graphic file (type png)
 <use fig/tp Ef = 0.08 e1 = 0 e2 = 0.05 e3 = 0.1.png>
-Package pdftex.def Info: fig/tp Ef = 0.08 e1 = 0 e2 = 0.05 e3 = 0.1.png  used on input line 92.
+Package pdftex.def Info: fig/tp Ef = 0.08 e1 = 0 e2 = 0.05 e3 = 0.1.png  used on input line 93.
 (pdftex.def)             Requested size: 426.79135pt x 295.46973pt.
-[16]
-Underfull \hbox (badness 10000) in paragraph at lines 98--103
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--106
 
  []
 
-[17 </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tp Ef = 0.08 e1 = 0 e2 = 0.05 e3 = 0.1.png>]
-<fig/3 arm structure.png, id=132, 1846.9pt x 1971.365pt>
+[26 </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tp Ef = 0.08 e1 = 0 e2 = 0.05 e3 = 0.1.png>]
+<fig/3 arm structure.png, id=185, 1846.9pt x 1971.365pt>
 File: fig/3 arm structure.png Graphic file (type png)
 <use fig/3 arm structure.png>
-Package pdftex.def Info: fig/3 arm structure.png  used on input line 122.
+Package pdftex.def Info: fig/3 arm structure.png  used on input line 125.
 (pdftex.def)             Requested size: 192.0548pt x 204.969pt.
-<fig/tp Ef = 0.08 U1 = 0.1802 e1 = 0 e3 = 0.1.png, id=133, 278.60085pt x 480.23415pt>
+<fig/tp Ef = 0.08 U1 = 0.1802 e1 = 0 e3 = 0.1.png, id=186, 278.60085pt x 480.23415pt>
 File: fig/tp Ef = 0.08 U1 = 0.1802 e1 = 0 e3 = 0.1.png Graphic file (type png)
 <use fig/tp Ef = 0.08 U1 = 0.1802 e1 = 0 e3 = 0.1.png>
-Package pdftex.def Info: fig/tp Ef = 0.08 U1 = 0.1802 e1 = 0 e3 = 0.1.png  used on input line 127.
+Package pdftex.def Info: fig/tp Ef = 0.08 U1 = 0.1802 e1 = 0 e3 = 0.1.png  used on input line 130.
 (pdftex.def)             Requested size: 128.0387pt x 220.7052pt.
- [18 </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/3 arm structure.png> </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tp Ef = 0.08 U1 = 0.1802 e1 = 0 e3 = 0.1.png>] [19]
-<fig/Fermi surface.png, id=142, 417.50378pt x 542.025pt>
+ [27] [28 </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/3 arm structure.png> </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tp Ef = 0.08 U1 = 0.1802 e1 = 0 e3 = 0.1.png>]
+<fig/Fermi surface.png, id=196, 417.50378pt x 542.025pt>
 File: fig/Fermi surface.png Graphic file (type png)
 <use fig/Fermi surface.png>
-Package pdftex.def Info: fig/Fermi surface.png  used on input line 175.
+Package pdftex.def Info: fig/Fermi surface.png  used on input line 178.
 (pdftex.def)             Requested size: 128.0387pt x 166.223pt.
-<fig/real vs pseudo.png, id=143, 279.39581pt x 483.41403pt>
+<fig/real vs pseudo.png, id=197, 279.39581pt x 483.41403pt>
 File: fig/real vs pseudo.png Graphic file (type png)
 <use fig/real vs pseudo.png>
-Package pdftex.def Info: fig/real vs pseudo.png  used on input line 180.
+Package pdftex.def Info: fig/real vs pseudo.png  used on input line 183.
 (pdftex.def)             Requested size: 128.0387pt x 221.53224pt.
- [20 </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Fermi surface.png> </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/real vs pseudo.png>]
-<fig/pseudo B field/Ef0.0832 U0.285 B0.05 w0.028.png, id=149, 269.42256pt x 478.93329pt>
+ [29]
+<fig/pseudo B field/Ef0.0832 U0.285 B0.05 w0.028.png, id=201, 269.42256pt x 478.93329pt>
 File: fig/pseudo B field/Ef0.0832 U0.285 B0.05 w0.028.png Graphic file (type png)
 <use fig/pseudo B field/Ef0.0832 U0.285 B0.05 w0.028.png>
-Package pdftex.def Info: fig/pseudo B field/Ef0.0832 U0.285 B0.05 w0.028.png  used on input line 202.
+Package pdftex.def Info: fig/pseudo B field/Ef0.0832 U0.285 B0.05 w0.028.png  used on input line 205.
 (pdftex.def)             Requested size: 128.0387pt x 227.59798pt.
-<fig/pseudo B field/Ef0.0832 U0.285 B1.5 w0.156.png, id=150, 268.77213pt x 479.51144pt>
+<fig/pseudo B field/Ef0.0832 U0.285 B1.5 w0.156.png, id=202, 268.77213pt x 479.51144pt>
 File: fig/pseudo B field/Ef0.0832 U0.285 B1.5 w0.156.png Graphic file (type png)
 <use fig/pseudo B field/Ef0.0832 U0.285 B1.5 w0.156.png>
-Package pdftex.def Info: fig/pseudo B field/Ef0.0832 U0.285 B1.5 w0.156.png  used on input line 207.
+Package pdftex.def Info: fig/pseudo B field/Ef0.0832 U0.285 B1.5 w0.156.png  used on input line 210.
 (pdftex.def)             Requested size: 128.0387pt x 228.43613pt.
-<fig/pseudo B field/Ef0.0832 U0 B0.05 w-0.069.png, id=151, 268.41078pt x 477.48788pt>
+<fig/pseudo B field/Ef0.0832 U0 B0.05 w-0.069.png, id=203, 268.41078pt x 477.48788pt>
 File: fig/pseudo B field/Ef0.0832 U0 B0.05 w-0.069.png Graphic file (type png)
 <use fig/pseudo B field/Ef0.0832 U0 B0.05 w-0.069.png>
-Package pdftex.def Info: fig/pseudo B field/Ef0.0832 U0 B0.05 w-0.069.png  used on input line 213.
+Package pdftex.def Info: fig/pseudo B field/Ef0.0832 U0 B0.05 w-0.069.png  used on input line 216.
 (pdftex.def)             Requested size: 128.0387pt x 227.77083pt.
-<fig/pseudo B field/Ef0.0832 U0 B1.5 w-0.378.png, id=152, 268.77213pt x 477.77698pt>
+<fig/pseudo B field/Ef0.0832 U0 B1.5 w-0.378.png, id=204, 268.77213pt x 477.77698pt>
 File: fig/pseudo B field/Ef0.0832 U0 B1.5 w-0.378.png Graphic file (type png)
 <use fig/pseudo B field/Ef0.0832 U0 B1.5 w-0.378.png>
-Package pdftex.def Info: fig/pseudo B field/Ef0.0832 U0 B1.5 w-0.378.png  used on input line 218.
+Package pdftex.def Info: fig/pseudo B field/Ef0.0832 U0 B1.5 w-0.378.png  used on input line 221.
 (pdftex.def)             Requested size: 128.0387pt x 227.60983pt.
- [21]) (/Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Chapter5.tex [22 </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0.285 B0.05 w0.028.png> </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0.285 B1.5 w0.156.png> </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0 B0.05 w-0.069.png> </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0 B1.5 w-0.378.png>]
+ [30 </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Fermi surface.png> </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/real vs pseudo.png>]) (/Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Chapter5.tex [31 </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0.285 B0.05 w0.028.png> </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0.285 B1.5 w0.156.png> </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0 B0.05 w-0.069.png> </Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/pseudo B field/Ef0.0832 U0 B1.5 w-0.378.png>]
 CHAPTER 5.
-) (/Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.bbl [23
+) (/Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.bbl [32
 
-]
-Underfull \hbox (badness 1852) in paragraph at lines 39--42
-\OT1/cmr/m/n/12 ``Angle-dependent trans-mis-sion in graphene het-ero-junc-tions,''  \OT1/cmr/bx/n/12 Ap-plied
+] [33
+
+] [34]
+Underfull \hbox (badness 1331) in paragraph at lines 135--139
+\OT1/cmr/m/n/12 Gordon, ``Trans-port mea-sure-ments across a tun-able po-ten-tial bar-rier in
  []
 
-[24
-
-]) [25] (/Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Biography.tex)
-Overfull \hbox (7.8226pt too wide) in paragraph at lines 3--78
+[35]) [36] (/Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Biography.tex)
+Overfull \hbox (7.8226pt too wide) in paragraph at lines 3--79
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--78
+Underfull \hbox (badness 10000) in paragraph at lines 3--79
 
  []
 
-[26
+[37
 
 ] (/Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.aux)
 
@@ -525,18 +611,18 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 6604 strings out of 480608
- 115373 string characters out of 5903630
+ 6865 strings out of 480608
+ 121212 string characters out of 5903630
  368458 words of memory out of 5000000
- 22377 multiletter control sequences out of 15000+600000
- 540410 words of font info for 56 fonts, out of 8000000 for 9000
+ 22614 multiletter control sequences out of 15000+600000
+ 543219 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,15n,44p,686b,506s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.pdf (34 pages, 17242674 bytes).
+ 41i,15n,42p,686b,506s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.pdf (46 pages, 18997595 bytes).
 PDF statistics:
- 222 PDF objects out of 1000 (max. 8388607)
- 119 compressed objects within 2 object streams
+ 288 PDF objects out of 1000 (max. 8388607)
+ 150 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 131 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 186 words of extra memory for PDF output out of 10000 (max. 10000000)
 
