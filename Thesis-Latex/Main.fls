@@ -115,8 +115,6 @@ INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm1
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Abstract en.tex
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Abstract en.tex
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Acknowledge.tex
-INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Acknowledge.tex
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.toc
@@ -154,12 +152,24 @@ INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/Type II.png
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/Type II.png
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/Type II.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/borophene atomic structure.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/borophene atomic structure.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/borophene atomic structure.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/borophene graphene.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/borophene graphene.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/borophene graphene.png
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/electron propagation.png
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/electron propagation.png
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/electron propagation.png
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/klein tunneling.png
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/klein tunneling.png
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/klein tunneling.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/angle-dependent transmission.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/angle-dependent transmission.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/angle-dependent transmission.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/R vs V.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/R vs V.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/R vs V.png
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/2weyl structure.png
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/2weyl structure.png
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/Chap 2/2weyl structure.png
@@ -258,12 +268,6 @@ INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.bbl
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmti12.tfm
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Biography.tex
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Biography.tex
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/rsfs/rsfs10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.aux
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb

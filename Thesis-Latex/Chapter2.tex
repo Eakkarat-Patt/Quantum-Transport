@@ -54,7 +54,7 @@
     The conventional Dirac cone, like those found in graphene, has rotational symmetry about the momentum space. 
     Their Fermi surface is closed and point-like at the band crossing, where the density of states vanishes as shown in Fig. \ref{2fig:type1}.
     However, they are not the only type of Dirac cone that can be found in Dirac materials.
-    The general Dirac-like Hamiltonian of two dimensional system is given By
+    The general Dirac-like Hamiltonian of two dimensional system is given by
     \begin{equation} \label{2eq:Hamiltonian in dirac cone class}
         H(q) = (w_{x}q_x+w_{y}q_y)\sigma_0 + v_x q_x \sigma_x + v_y q_y \sigma_y,
     \end{equation}
@@ -103,9 +103,42 @@
     The Fermi surface of this type is two crossing lines, and the density of states become finite.
     When the tilted parameter $w_0 = 1$, the Dirac cone situate between type-I tilted and type-II Dirac cones.
     Due to their distinct Fermi surface, the Dirac cone of this kind has been named a type-III Dirac cone.
-\section{Klein tunneling effect} \label{2sec:klein effect}
+
+\section{Borophene: A tilted anisotropic Dirac cone material}
+    Graphene was the first one of its kind that successfully synthesized with high stability.
+    This material class has been intensively studied due to their superiorly-high surface-volume ratio and novel electronic properties compared with bulk counterparts, one of which is two-dimensional (2D) structure of borons.
+    Boron compounds belong to the polyhedral class, which not only results in a large variability of boron compound structure, but also prevents the formation of flat covalent B-B bonding similar to graphene as shown in Fig. \ref{2fig:borophene atomic structure}.
+    Despite the potential application of boron-based 2D structure, this material faced a stability problem and its surface is chemically degraded in ambient conditions.
+    This stability problem may be solved by the introduction of intrinsic defects \cite{Liu2013}.
+    One of the most stable predicted structures of 2D phase of borons is $8-Pmmn$ borophene.
+    Their novel electronic properties were revealed by first-principles calculations, which predicted to be semimetallic with anisotropic and tilted Dirac cones \cite{Lopez-Bezanilla2016,Zhou2014}.
+    
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width = 0.6\linewidth]{fig/Chap 2/borophene atomic structure.png}
+        \caption{Atomic structure of $8-Pmmn$ borophene. The two different colors distinguish the two types of nonequivalent B atoms.}
+        \label{2fig:borophene atomic structure}
+    \end{figure}
+    
+    Recently, Atomically thin layers borophene has been successfully grown on Ag(111) substrate using a solid boron atomic source under ultrahigh-vacuum conditions \cite{Mannix2015a}.
+    This experimental study was extended to the work on synthesis of borophene-graphene heterostructures \cite{Liu2019}.
+    They have successfully integrated the borophene into 2D heterostructures with graphene (Fig. \ref{2fig:borophene graphene hetero}).
+    Despite the mismatch of crystallographic lattices between borophene and graphene, the rich bonding configurations of boron achieved nearly atomically sharp lateral heterostructures.
+    Unfortunately, the experimental realization of transport properties through these heterostructures have not yet been demonstrated.
+    Which leaves plenty of room for improvement by the theoretical studies.
+    
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width = 0.4\linewidth]{fig/Chap 2/borophene graphene.png}
+        \caption{STM topography image of lateral and vertical heterostructures of borophene and graphene.}
+        \label{2fig:borophene graphene hetero}
+    \end{figure}
+    
+
+
+\section{Klein tunneling effect in graphene} \label{2sec:klein effect}
     Klein tunneling refers to a relativistic particles penetrate through the potential barrier without backscattering.
-    These properties was once unique to the high-energy particles, where it can only be observed in the system with high-driven voltage.
+    These properties was once unique to the high-energy particles, where it can only be observed in the system with high-voltage-driven.
     In 2006, this effect is predicted to occur in low-energy system of graphene \cite{Katsnelson2006a}.
     This is because the electron in graphene mimics the relativistic massless Dirac particle and obey massless Dirac equation
     \begin{align} \label{2eq:Hamiltonian}
@@ -163,7 +196,31 @@
                     $V_0 = 200$ meV for red curve and $285$ meV for blue curve.}
         \label{2fig:Klein tunneling}
     \end{figure}
-
+    Moreover, Eq. \ref{2eq:transmission probability} also results in perfect transmission at nonzero incident angles, which occurred under the resonance condition $q_x D = \pi N$, $N = 0, \pm 1,...$.
+    These perfect tunnelings are similar to Fabry-Perot interference in optics, where the incoming light rays constructively interfere with itself inside the cavity.
+    These angle-dependent transmissions were experimentally investigated in graphene heterojunctions \cite{Rahman2015}.
+    The setup for measuring the angle-dependent transmission is shown in Fig. \ref{2fig:3 arm device}.
+    The measurement is carried out by applying the current bias between arm 1 and the other three arms, where the measurements are reported as the resistance of each arm as shown in Fig. \ref{2fig:r vs v}.
+    These resistances  can be measured using standard four-probe technique.
+    \begin{figure}[H]
+        \centering
+        \begin{subfigure}[b]{0.5\linewidth}
+            \includegraphics[width = \linewidth]{fig/Chap 2/angle-dependent transmission.png}
+            \caption{}
+            \label{2fig:3 arm device}
+        \end{subfigure}
+        \begin{subfigure}[b]{0.35\linewidth}
+            \includegraphics[width = \linewidth]{fig/Chap 2/R vs V.png}
+            \caption{}
+            \label{2fig:r vs v}
+        \end{subfigure}
+        \caption{(a) SEM image of single layer graphene device with straight and angles arms(blue). 
+                    The angled arms are $45^{\circ}$ with the straight arm. 
+                    The bottom and top gate are shown in green and orange, respectively. The leads are shown in yellow.
+                    (b) Resistance as a function of carrier density under the application of top gate voltage for arms 2, 3, and 4. 
+                    $V_{Bg}$ is bottom gate voltage.}
+        \label{2fig:angle dependent transmission}
+    \end{figure}
 \section{Electronic transport of electron in Weyl semimetals under the influence of magnetic field} \label{2sec:transport in B field}
     %A two-dimensional electron gas in graphene is closely related to light propagation in geometrical optics, where the electron penetrating the potential barrier is analogous to negative refraction through metamaterials.
 
@@ -274,7 +331,7 @@
     The number and shape of the perfect transmissions can be intuitively predicted since they are highly dependent on applied voltage and Fermi energy.
     When the magnetic barrier is applied to the system, the transmission profiles become asymmetric, where the direction of the shift depend on the direction of the magnetic barrier.
     The influence of the magnetic field or magnetic vector potential to be specific, is actually shifts the Weyl cone in the transverse direction.
-    For this reason, with enough magnetic field strength, The Klein tunneling will be destroyed as shown in Fig. \ref{2fig:klein b field 1}. 
+    For this reason, with enough magnetic field strength, The Klein tunneling will be destroyed as the red and brown curve in Fig. \ref{2fig:klein b field 1}. 
     \begin{figure}[H]
         \centering
         \begin{subfigure}[b]{0.4\linewidth}
@@ -363,7 +420,7 @@
     \end{equation}
     where $\eta = \mathrm{sign}(B_z)$. The equivalent y-component wavevector shifted due to the tilted Weyl cone and potential barrier can be approximately derived by considering the average of shift
     at the maximum and minimum points of $k_y$.
-    By equating Eq. \ref{2eq:phi a} and \ref{2eq:phi b}, the delta function pseudo-magnetic field generated by the application of potential barrier and tilted Weyl cone is given By
+    By equating Eq. \ref{2eq:phi a} and \ref{2eq:phi b}, the delta function pseudo-magnetic field generated by the application of potential barrier and tilted Weyl cone is given by
 
     %in the case of $w_y \neq 0$, the limit of electron incident angle is 
 

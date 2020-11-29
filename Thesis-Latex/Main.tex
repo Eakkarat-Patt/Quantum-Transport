@@ -16,7 +16,7 @@
 \usepackage{subcaption}
 \usepackage{cleveref}
 \usepackage{braket}
-
+\usepackage{afterpage}
 
 
 
@@ -38,14 +38,18 @@
     \thispagestyle{empty}
     \input{in_title.tex}
     \newpage
+    
+   
+    \, \quad \addcontentsline{toc}{chapter}{ABSTRACT IN THAI}
+    \newpage
 
     \input{Abstract en.tex}
     \addcontentsline{toc}{chapter}{ABSTRACT IN ENGLISH}
     \newpage
 
-    \input{Acknowledge.tex}
-    \addcontentsline{toc}{chapter}{ACKNOWLEDGMENTS}
-    \newpage
+    %\input{Acknowledge.tex}
+    %\addcontentsline{toc}{chapter}{ACKNOWLEDGMENTS}
+    %\newpage
 
     \tableofcontents
     \addtocontents{toc}{\contentsline{chapter}{CONTENTS}{iv}}
@@ -66,12 +70,12 @@
     \input{Chapter3.tex}
     \input{Chapter4.tex}
     \input{Chapter5.tex}
+    \newpage
 
-
+    \addcontentsline{toc}{chapter}{REFERENCES}
     %\bibliographystyle{kmutt}
     \bibliographystyle{ieeetr}
     \bibliography{library}
-    \addcontentsline{toc}{chapter}{REFERENCES}
     \newpage
 
     \addcontentsline{toc}{chapter}{BIOGRAPHY}

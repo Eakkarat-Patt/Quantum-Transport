@@ -1,6 +1,6 @@
 \penalty -\@highpenalty \relax \vskip 1.0em plus\p@ \@tempdima 3.5em\relax \begingroup \parindent \z@ \rightskip 1.55em\parfillskip -1.55em\unhbox \voidb@x \bfseries \advance \leftskip \@tempdima \hskip -\leftskip \nobreak \hfil \nobreak \hbox to1.55em{\hss PAGE}\par \penalty \@highpenalty \endgroup 
-\contentsline {chapter}{ABSTRACT IN ENGLISH}{ii}%
-\contentsline {chapter}{ACKNOWLEDGMENTS}{iii}%
+\contentsline {chapter}{ABSTRACT IN THAI}{ii}%
+\contentsline {chapter}{ABSTRACT IN ENGLISH}{iii}%
 \penalty -\@highpenalty \relax \vskip 1.0em plus\p@ \@tempdima 3.5em\relax \begingroup \parindent \z@ \rightskip 1.55em\parfillskip -1.55em\unhbox \voidb@x \bfseries \advance \leftskip \@tempdima \hskip -\leftskip CONTENTS\nobreak \hfil \nobreak \hbox to1.55em{\hss iv}\par \penalty \@highpenalty \endgroup 
 \@tempskipb \lastskip \begingroup \@tempskipa \@tempskipb \advance \@tempskipb \prevdepth \vskip -\@tempskipb \penalty -\@highpenalty \advance \@tempskipb -\@tempskipa \vskip \@tempskipb \vskip \@tempskipa \endgroup \vskip 1.0em plus\p@ \@tempdima 3.5em\relax \begingroup \parindent \z@ \rightskip 1.55em\parfillskip -1.55em\unhbox \voidb@x \bfseries \advance \leftskip \@tempdima \hskip -\leftskip LIST OF FIGURES\nobreak \hfil \nobreak \hbox to1.55em{\hss vi}\par \penalty \@highpenalty \endgroup 
 \penalty -\@highpenalty \relax \vskip 1.0em plus\p@ \@tempdima 3.5em\relax \begingroup \parindent \z@ \rightskip 1.55em\parfillskip -1.55em\unhbox \voidb@x \bfseries \advance \leftskip \@tempdima \hskip -\leftskip \nobreak \hfil \nobreak \hbox to1.55em{\hss }\par \penalty \@highpenalty \endgroup 
@@ -9,29 +9,33 @@
 \addvspace {10\p@ }
 \contentsline {kmuttchapter}{\numberline {\bf 1.}{\bf INTRODUCTION}}{1}%
 \contentsline {section}{\numberline {1.1}Background and motivation}{1}%
+\contentsline {section}{\numberline {1.2}Objectives}{2}%
 \addvspace {10\p@ }
 \contentsline {kmuttchapter}{\numberline {\bf 2.}{\bf THEORETICAL BACKGROUND}}{3}%
 \contentsline {section}{\numberline {2.1}The electronic structure of Dirac materials}{3}%
 \contentsline {section}{\numberline {2.2}The classification of Dirac cone materials}{5}%
-\contentsline {section}{\numberline {2.3}Klein tunneling effect}{6}%
-\contentsline {section}{\numberline {2.4}Electronic transport of electron in Weyl semimetals under the influence of magnetic field}{8}%
-\contentsline {section}{\numberline {2.5}Asymmetric tunneling of electron in tilted Weyl cone systems}{12}%
+\contentsline {section}{\numberline {2.3}Borophene: A tilted anisotropic Dirac cone material}{6}%
+\contentsline {section}{\numberline {2.4}Klein tunneling effect in graphene}{8}%
+\contentsline {section}{\numberline {2.5}Electronic transport of electron in Weyl semimetals under the influence of magnetic field}{11}%
+\contentsline {section}{\numberline {2.6}Asymmetric tunneling of electron in tilted Weyl cone systems}{15}%
 \addvspace {10\p@ }
-\contentsline {kmuttchapter}{\numberline {\bf 3.}{\bf MODEL AND METHOD}}{17}%
-\contentsline {section}{\numberline {3.1}Field-Effect transistor}{17}%
-\contentsline {section}{\numberline {3.2}Transmission probability of electron in tilted Dirac cone}{18}%
-\contentsline {section}{\numberline {3.3}The elliptic Fermi surface of tilted Dirac cone}{19}%
-\contentsline {section}{\numberline {3.4}Angular dependent wavevector of tilted Dirac cone}{21}%
+\contentsline {kmuttchapter}{\numberline {\bf 3.}{\bf MODEL AND METHOD}}{20}%
+\contentsline {section}{\numberline {3.1}Tilt-mismatch Dirac cone junction}{20}%
+\contentsline {section}{\numberline {3.2}Transmission probability of electron in tilted Dirac cone}{21}%
+\contentsline {section}{\numberline {3.3}The elliptic Fermi surface of tilted Dirac cone}{23}%
+\contentsline {section}{\numberline {3.4}Angular dependent wavevector of tilted Dirac cone}{24}%
 \addvspace {10\p@ }
-\contentsline {kmuttchapter}{\numberline {\bf 4.}{\bf RESULT AND DISCUSSION}}{23}%
-\contentsline {section}{\numberline {4.1}Angular dependent of transmission probability}{23}%
-\contentsline {section}{\numberline {4.2}The tilted strength identification by means of the tunneling resonance properties}{25}%
-\contentsline {section}{\numberline {4.3}Oscillatory behavior of electron resonant tunneling}{25}%
-\contentsline {section}{\numberline {4.4}Revisit: The tilted strength identification by means of the tunneling resonance properties}{26}%
-\contentsline {section}{\numberline {4.5}Pseudo magnetic field}{28}%
-\contentsline {section}{\numberline {4.6}The key consequence of the mismatch effect}{29}%
-\contentsline {section}{\numberline {4.7}Transmission under the influence of pseudo magnetic field}{30}%
+\contentsline {kmuttchapter}{\numberline {\bf 4.}{\bf RESULT AND DISCUSSION}}{26}%
+\contentsline {section}{\numberline {4.1}Angular dependent of transmission probability}{26}%
+\contentsline {section}{\numberline {4.2}The tilted strength identification by means of the tunneling resonance properties}{28}%
+\contentsline {section}{\numberline {4.3}Oscillatory behavior of electron resonant tunneling}{28}%
+\contentsline {section}{\numberline {4.4}Revisit: The tilted strength identification by means of the tunneling resonance properties}{29}%
+\contentsline {section}{\numberline {4.5}Pseudo magnetic field}{31}%
+\contentsline {section}{\numberline {4.6}The induction of pseudo magnetic effect by the tilt-mismatch Dirac cone}{32}%
+\contentsline {section}{\numberline {4.7}Transmission under the influence of pseudo magnetic field}{33}%
 \addvspace {10\p@ }
-\contentsline {kmuttchapter}{\numberline {\bf 5.}{\bf CONCLUSION}}{32}%
+\contentsline {kmuttchapter}{\numberline {\bf 5.}{\bf CONCLUSION AND FUTURE WORK}}{35}%
+\contentsline {section}{\numberline {5.1}Conclusion}{35}%
+\contentsline {section}{\numberline {5.2}Future work}{35}%
 \contentsline {chapter}{REFERENCES}{36}%
-\contentsline {chapter}{BIOGRAPHY}{37}%
+\contentsline {chapter}{BIOGRAPHY}{40}%

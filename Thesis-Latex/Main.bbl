@@ -46,7 +46,7 @@ J.~Park, G.~Lee, F.~Wolff-Fabris, Y.~Y. Koh, M.~J. Eom, Y.~K. Kim, M.~A.
   fermions in a Bi square net of SrMnBi2},'' {\em Physical Review Letters},
   vol.~107, no.~12, pp.~1--5, 2011.
 
-\bibitem{Mannix2015}
+\bibitem{Mannix2015a}
 A.~J. Mannix, X.-F. Zhou, B.~Kiraly, J.~D. Wood, D.~Alducin, B.~D. Myers,
   X.~Liu, B.~L. Fisher, U.~Santiago, J.~R. Guest, M.~J. Yacaman, A.~Ponce,
   A.~R. Oganov, M.~C. Hersam, and N.~P. Guisinger, ``{Synthesis of borophenes:
@@ -95,20 +95,33 @@ M.~Trescher, B.~Sbierski, P.~W. Brouwer, and E.~J. Bergholtz, ``{Quantum
   Weyl cones},'' {\em Physical Review B - Condensed Matter and Materials
   Physics}, vol.~91, no.~11, pp.~1--6, 2015.
 
+\bibitem{Liu2013}
+Y.~Liu, E.~S. Penev, and B.~I. Yakobson, ``{Probing the synthesis of
+  two-dimensional boron by first-principles computations},'' {\em Angewandte
+  Chemie - International Edition}, vol.~52, no.~11, pp.~3156--3159, 2013.
+
+\bibitem{Lopez-Bezanilla2016}
+A.~Lopez-Bezanilla and P.~B. Littlewood, ``{Electronic properties of 8- Pmmn
+  borophene},'' {\em Physical Review B}, vol.~93, no.~24, pp.~2--6, 2016.
+
+\bibitem{Liu2019}
+X.~Liu and M.~C. Hersam, ``{Borophene-graphene heterostructures},'' {\em
+  Science Advances}, vol.~5, p.~eaax6444, oct 2019.
+
 \bibitem{Katsnelson2006a}
 M.~I. Katsnelson, K.~S. Novoselov, and A.~K. Geim, ``{Chiral tunnelling and the
   Klein paradox in graphene},'' {\em Nature Physics}, vol.~2, no.~9,
   pp.~620--625, 2006.
 
-\bibitem{Allain2011}
-P.~E. Allain and J.~N. Fuchs, ``{Klein tunneling in graphene: Optics with
-  massless electrons},'' {\em European Physical Journal B}, vol.~83, no.~3,
-  pp.~301--317, 2011.
-
 \bibitem{Rahman2015}
 A.~Rahman, J.~W. Guikema, N.~M. Hassan, and N.~Markovi{\'{c}},
   ``{Angle-dependent transmission in graphene heterojunctions},'' {\em Applied
   Physics Letters}, vol.~106, no.~1, 2015.
+
+\bibitem{Allain2011}
+P.~E. Allain and J.~N. Fuchs, ``{Klein tunneling in graphene: Optics with
+  massless electrons},'' {\em European Physical Journal B}, vol.~83, no.~3,
+  pp.~301--317, 2011.
 
 \bibitem{Pereira2009}
 V.~M. Pereira and A.~H. {Castro Neto}, ``{Strain Engineering of Graphene's

@@ -1,15 +1,15 @@
 \kmuttchapter{MODEL AND METHOD}
 In this work, the tunneling properties of electrons across the mismatch of the tilted Dirac cone are investigated.
 We assume that the electron propagations are coherent and not affected by ohmic contact due to the heterogeneity of the junctions. 
-The tunneling properties considered here are in low energy limit, in which the inter-valley scattering between $K$ and $K^\prime$ in the Brillouin zone is negligible \cite{Abergel2009}
-\section{Field-Effect transistor}
+The tunneling properties considered here are in low energy limit, in which the inter-valley scattering between $K$ and $K^\prime$ in the Brillouin zone is negligible \cite{Abergel2009}.
+\section{Tilt-mismatch Dirac cone junction}
     The proposed structure is depicted in Fig. \ref{fig:transistor}, consisting of 2-dimensional Dirac material n-p-n heterojunctions with different tilted Dirac cones. 
     To achieve such a device structure, the top gate is placed in the middle region of length L to tune the Fermi energy level, which can be realized by depositing Ti/Au using standard electron beam lithography \cite{Huard2007}.
     Electrostatic doping using the ionic-liquid gate also has been demonstrated, which enhanced the carrier mobility \cite{Perera2013}. 
-    For the barrier profile, we use rectangular potential barrier.
+    For the barrier profile, we use rectangular potential barrier $U(x) = U[\Theta(x)-\Theta(x-L)]$.
     \begin{figure}[H]
         \centering
-        \includegraphics[width=0.6\linewidth]{fig/Transistor.png}
+        \includegraphics[width=0.8\linewidth]{fig/Transistor.png}
         \caption{Schematic illustration of Dirac material n-p-n heterojunctions with the mismatch of Dirac cone. 
                     The position of Fermi energy level $E_F$ can be controlled by tuning the voltage through potential gate of length $L$.}
         \label{fig:transistor}
@@ -97,14 +97,18 @@ The tunneling properties considered here are in low energy limit, in which the i
         \frac{k_x^2}{k_a^2} + \frac{k_y^2}{k_b^2} = 1
     \end{align}
     where $k_x = k\cos{\phi}$ and $k_y = k\sin{\phi} + k_c$. Multiply both side with $k_a^2 k_b^2$ and substituting $\cos^2{\phi} = 1 - \sin^2{\phi}$
-    $$
-    k_b^2 k^2 -k_b^2 k^2 \sin^2{\phi} + k_a^2k^2 \sin^2{\phi}+2 k_a^2 k c \sin{\phi} +k_a^2 c^2)=k_a^2 k_b^2
-    $$
+    \begin{equation}
+        \begin{aligned}
+            k_b^2 k^2 -k_b^2 k^2 \sin^2{\phi} + k_a^2k^2 \sin^2{\phi}+2 k_a^2 k c \sin{\phi} +k_a^2 c^2)=k_a^2 k_b^2
+        \end{aligned}
+    \end{equation}
     Since $k_a = k_b \sqrt{1-w_0^2}$ and $k_c = k_b w_0$ where $w_0$ is eccentricity of the ellipse, we obtain
-    $$
-    k_b^2 k^2 - k_b^2 k^2 \sin^2{\phi} + k_b^2 (1-w_0^2)k^2 \sin^2{\phi}+2 k_b^2 (1-w_0^2) k k_b w_0 \sin{\phi} +k_b^2 (1-w_0^2) k_b^2 w_0^2=k_b^2 (1-w_0^2) k_b^2
-    $$
-
+    \begin{equation}
+        \begin{aligned}
+            &k_b^2 k^2 - k_b^2 k^2 \sin^2{\phi} + k_b^2 (1-w_0^2)k^2 \sin^2{\phi}\\
+            &+2 k_b^2 (1-w_0^2) k k_b w_0 \sin{\phi} +k_b^2 (1-w_0^2) k_b^2 w_0^2=k_b^2 (1-w_0^2) k_b^2\\
+        \end{aligned}
+    \end{equation}
     Multiplying both side with $-1/k_b^2$ and rearranging, we obtain
     \begin{align} 
         k = \pm (k w_0 \sin{\phi} - k_b(1-w_0^2))
@@ -162,7 +166,7 @@ The tunneling properties considered here are in low energy limit, in which the i
     \begin{equation} \label{eq:q}
         q = \frac{E_F-U}{\hbar v_F s^{\prime}}+\frac{w_0 k_y}{s^{\prime}},
     \end{equation}
-    and the their x-component can be written as
+    and their x-component can be written as
     \begin{equation} \label{eq:qx}
         \begin{aligned}
         q_x &= \sqrt{q^2-q_y^2}\\
