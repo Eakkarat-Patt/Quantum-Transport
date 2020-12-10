@@ -1,179 +1,217 @@
 \begin{thebibliography}{10}
+\newcommand{\enquote}[1]{``#1''}
 
 \bibitem{Zhang2004}
-A.~A.~F. {K. S. Novoselov, A. K. Geim, S. V. Morozov, D. Jiang, 1 Y. Zhang, S.
-  V. Dubonos, I. V. Grigorieva}, ``{Electric Field Effect in Atomically Thin
-  Carbon Films},'' {\em Science}, vol.~306, no.~5696, pp.~666--669, 2004.
+{K. S. Novoselov, A. K. Geim, S. V. Morozov, D. Jiang, 1 Y. Zhang, S. V.
+  Dubonos, I. V. Grigorieva}, A. A.~F., 2004.
+\newblock \enquote{{Electric Field Effect in Atomically Thin Carbon Films},}
+  {\bf Science}, vol. 306, no. 5696, pp. 666--669.
 
 \bibitem{Wehling2014}
-T.~O. Wehling, A.~M. Black-Schaffer, and A.~V. Balatsky, ``{Dirac materials},''
-  {\em Advances in Physics}, vol.~63, no.~1, pp.~1--76, 2014.
+Wehling, T.~O., Black-Schaffer, A.~M., and Balatsky, A.~V., 2014.
+\newblock \enquote{{Dirac materials},} {\bf Advances in Physics}, vol.~63,
+  no.~1, pp. 1--76.
 
 \bibitem{CastroNeto2009}
-A.~H. {Castro Neto}, F.~Guinea, N.~M. Peres, K.~S. Novoselov, and A.~K. Geim,
-  ``{The electronic properties of graphene},'' {\em Reviews of Modern Physics},
-  vol.~81, no.~1, pp.~109--162, 2009.
+{Castro Neto}, A.~H., Guinea, F., Peres, N.~M., Novoselov, K.~S., and Geim,
+  A.~K., 2009.
+\newblock \enquote{{The electronic properties of graphene},} {\bf Reviews of
+  Modern Physics}, vol.~81, no.~1, pp. 109--162.
 
 \bibitem{Park2008}
-C.~H. Park, L.~Yang, Y.~W. Son, M.~L. Cohen, and S.~G. Louie, ``{Anisotropic
-  behaviours of massless Dirac fermions in graphene under periodic
-  potentials0},'' {\em Nature Physics}, vol.~4, no.~3, pp.~213--217, 2008.
+Park, C.~H., Yang, L., Son, Y.~W., Cohen, M.~L., and Louie, S.~G., 2008.
+\newblock \enquote{{Anisotropic behaviours of massless Dirac fermions in
+  graphene under periodic potentials},} {\bf Nature Physics}, vol.~4, no.~3,
+  pp. 213--217.
 
 \bibitem{Lu2016}
-H.~Y. Lu, A.~S. Cuamba, S.~Y. Lin, L.~Hao, R.~Wang, H.~Li, Y.~Zhao, and C.~S.
-  Ting, ``{Tilted anisotropic Dirac cones in partially hydrogenated
-  graphene},'' {\em Physical Review B}, vol.~94, no.~19, pp.~1--7, 2016.
+Lu, H.~Y., Cuamba, A.~S., Lin, S.~Y., Hao, L., Wang, R., Li, H., Zhao, Y., and
+  Ting, C.~S., 2016.
+\newblock \enquote{{Tilted anisotropic Dirac cones in partially hydrogenated
+  graphene},} {\bf Physical Review B}, vol.~94, no.~19, pp. 1--7.
 
 \bibitem{Zhang2017a}
-H.~Zhang, Y.~Xie, C.~Zhong, Z.~Zhang, and Y.~Chen, ``{Tunable Type-I and
-  Type-II Dirac Fermions in Graphene with Nitrogen Line Defects},'' {\em
-  Journal of Physical Chemistry C}, vol.~121, no.~22, pp.~12476--12482, 2017.
+Zhang, H., Xie, Y., Zhong, C., Zhang, Z., and Chen, Y., 2017.
+\newblock \enquote{{Tunable Type-I and Type-II Dirac Fermions in Graphene with
+  Nitrogen Line Defects},} {\bf Journal of Physical Chemistry C}, vol. 121,
+  no.~22, pp. 12476--12482.
 
 \bibitem{Xia2014}
-F.~Xia, H.~Wang, and Y.~Jia, ``{Rediscovering black phosphorus as an
-  anisotropic layered material for optoelectronics and electronics},'' {\em
-  Nature Communications}, vol.~5, pp.~1--6, 2014.
+Xia, F., Wang, H., and Jia, Y., 2014.
+\newblock \enquote{{Rediscovering black phosphorus as an anisotropic layered
+  material for optoelectronics and electronics},} {\bf Nature Communications},
+  vol.~5, pp. 1--6.
 
 \bibitem{Kim2015}
-J.~Kim, S.~S. Baik, S.~H. Ryu, Y.~Sohn, S.~Park, B.-G. Park, J.~Denlinger,
-  Y.~Yi, H.~J. Choi, and K.~S. Kim, ``{Observation of tunable band gap and
-  anisotropic Dirac semimetal state in black phosphorus},'' {\em Science},
-  vol.~349, pp.~723 LP -- 726, aug 2015.
+Kim, J., Baik, S.~S., Ryu, S.~H., Sohn, Y., Park, S., Park, B.-G., Denlinger,
+  J., Yi, Y., Choi, H.~J., and Kim, K.~S., 2015.
+\newblock \enquote{{Observation of tunable band gap and anisotropic Dirac
+  semimetal state in black phosphorus},} {\bf Science}, vol. 349, no. 6249, pp.
+  723 LP -- 726.
 
 \bibitem{Park2011}
-J.~Park, G.~Lee, F.~Wolff-Fabris, Y.~Y. Koh, M.~J. Eom, Y.~K. Kim, M.~A.
-  Farhan, Y.~J. Jo, C.~Kim, J.~H. Shim, and J.~S. Kim, ``{Anisotropic dirac
-  fermions in a Bi square net of SrMnBi2},'' {\em Physical Review Letters},
-  vol.~107, no.~12, pp.~1--5, 2011.
+Park, J., Lee, G., Wolff-Fabris, F., Koh, Y.~Y., Eom, M.~J., Kim, Y.~K.,
+  Farhan, M.~A., Jo, Y.~J., Kim, C., Shim, J.~H., and Kim, J.~S., 2011.
+\newblock \enquote{{Anisotropic dirac fermions in a Bi square net of SrMnBi2},}
+  {\bf Physical Review Letters}, vol. 107, no.~12, pp. 1--5.
 
 \bibitem{Mannix2015a}
-A.~J. Mannix, X.-F. Zhou, B.~Kiraly, J.~D. Wood, D.~Alducin, B.~D. Myers,
-  X.~Liu, B.~L. Fisher, U.~Santiago, J.~R. Guest, M.~J. Yacaman, A.~Ponce,
-  A.~R. Oganov, M.~C. Hersam, and N.~P. Guisinger, ``{Synthesis of borophenes:
-  Anisotropic, two-dimensional boron polymorphs},'' {\em Science}, vol.~350,
-  pp.~1513 LP -- 1516, dec 2015.
+Mannix, A.~J., Zhou, X.-F., Kiraly, B., Wood, J.~D., Alducin, D., Myers, B.~D.,
+  Liu, X., Fisher, B.~L., Santiago, U., Guest, J.~R., Yacaman, M.~J., Ponce,
+  A., Oganov, A.~R., Hersam, M.~C., and Guisinger, N.~P., 2015.
+\newblock \enquote{{Synthesis of borophenes: Anisotropic, two-dimensional boron
+  polymorphs},} {\bf Science}, vol. 350, no. 6267, pp. 1513 LP -- 1516.
 
 \bibitem{Zhou2014}
-X.~F. Zhou, X.~Dong, A.~R. Oganov, Q.~Zhu, Y.~Tian, and H.~T. Wang,
-  ``{Semimetallic two-dimensional boron allotrope with massless Dirac
-  fermions},'' {\em Physical Review Letters}, vol.~112, no.~8, pp.~1--5, 2014.
+Zhou, X.~F., Dong, X., Oganov, A.~R., Zhu, Q., Tian, Y., and Wang, H.~T., 2014.
+\newblock \enquote{{Semimetallic two-dimensional boron allotrope with massless
+  Dirac fermions},} {\bf Physical Review Letters}, vol. 112, no.~8, pp. 1--5.
 
 \bibitem{Marino2019}
-E.~C. Marino, R.~O. Corr{\^{e}}a, R.~Arouca, L.~H. Nunes, and V.~S. Alves,
-  ``{Superconducting and pseudogap transition temperatures in high-Tc cuprates
-  and the Tc dependence on pressure},'' {\em arXiv}, 2019.
+Marino, E.~C., Corr{\^{e}}a, R.~O., Arouca, R., Nunes, L.~H., and Alves, V.~S.,
+  2019.
+\newblock \enquote{{Superconducting and pseudogap transition temperatures in
+  high-Tc cuprates and the Tc dependence on pressure},} {\bf arXiv}.
 
 \bibitem{Li2017a}
-D.~Li, B.~Rosenstein, B.~Y. Shapiro, and I.~Shapiro, ``{Effect of the type-I to
-  type-II Weyl semimetal topological transition on superconductivity},'' {\em
-  Physical Review B}, vol.~95, no.~9, pp.~1--9, 2017.
+Li, D., Rosenstein, B., Shapiro, B.~Y., and Shapiro, I., 2017.
+\newblock \enquote{{Effect of the type-I to type-II Weyl semimetal topological
+  transition on superconductivity},} {\bf Physical Review B}, vol.~95, no.~9,
+  pp. 1--9.
 
 \bibitem{Nguyen2018a}
-V.~H. Nguyen and J.~C. Charlier, ``{Klein tunneling and electron optics in
-  Dirac-Weyl fermion systems with tilted energy dispersion},'' {\em Physical
-  Review B}, vol.~97, no.~23, 2018.
+Nguyen, V.~H. and Charlier, J.~C., 2018.
+\newblock \enquote{{Klein tunneling and electron optics in Dirac-Weyl fermion
+  systems with tilted energy dispersion},} {\bf Physical Review B}, vol.~97,
+  no.~23.
 
 \bibitem{Yesilyurt2017}
-C.~Yesilyurt, Z.~B. Siu, S.~G. Tan, G.~Liang, and M.~B. Jalil, ``{Conductance
-  modulation in Weyl semimetals with tilted energy dispersion without a band
-  gap},'' {\em Journal of Applied Physics}, vol.~121, no.~24, 2017.
+Yesilyurt, C., Siu, Z.~B., Tan, S.~G., Liang, G., and Jalil, M.~B., 2017.
+\newblock \enquote{{Conductance modulation in Weyl semimetals with tilted
+  energy dispersion without a band gap},} {\bf Journal of Applied Physics},
+  vol. 121, no.~24.
 
 \bibitem{Yesilyurt2017a}
-C.~Yesilyurt, Z.~B. Siu, S.~G. Tan, G.~Liang, S.~A. Yang, and M.~B. Jalil,
-  ``{Anomalous tunneling characteristic of Weyl semimetals with tilted energy
-  dispersion},'' {\em Applied Physics Letters}, vol.~111, no.~6, 2017.
+Yesilyurt, C., Siu, Z.~B., Tan, S.~G., Liang, G., Yang, S.~A., and Jalil,
+  M.~B., 2017.
+\newblock \enquote{{Anomalous tunneling characteristic of Weyl semimetals with
+  tilted energy dispersion},} {\bf Applied Physics Letters}, vol. 111, no.~6.
 
 \bibitem{Morinari2009}
-T.~Morinari, T.~Himura, and T.~Tohyama, ``{Possible verification of tilted
-  anisotropic Dirac cone in $\alpha$-(BEDT-TTF)2I3 using interlayer
-  magnetoresistance},'' {\em Journal of the Physical Society of Japan},
-  vol.~78, no.~2, pp.~3--6, 2009.
+Morinari, T., Himura, T., and Tohyama, T., 2009.
+\newblock \enquote{{Possible verification of tilted anisotropic Dirac cone in
+  $\alpha$-(BEDT-TTF)2I3 using interlayer magnetoresistance},} {\bf Journal of
+  the Physical Society of Japan}, vol.~78, no.~2, pp. 3--6.
 
 \bibitem{Trescher2015}
-M.~Trescher, B.~Sbierski, P.~W. Brouwer, and E.~J. Bergholtz, ``{Quantum
-  transport in Dirac materials: Signatures of tilted and anisotropic Dirac and
-  Weyl cones},'' {\em Physical Review B - Condensed Matter and Materials
-  Physics}, vol.~91, no.~11, pp.~1--6, 2015.
+Trescher, M., Sbierski, B., Brouwer, P.~W., and Bergholtz, E.~J., 2015.
+\newblock \enquote{{Quantum transport in Dirac materials: Signatures of tilted
+  and anisotropic Dirac and Weyl cones},} {\bf Physical Review B - Condensed
+  Matter and Materials Physics}, vol.~91, no.~11, pp. 1--6.
+
+\bibitem{Milicevic2019}
+Mili{\'{c}}evi{\'{c}}, M., Montambaux, G., Ozawa, T., Jamadi, O., Real, B.,
+  Sagnes, I., Lema{\^{i}}tre, A., {Le Gratiet}, L., Harouri, A., Bloch, J., and
+  Amo, A., 2019.
+\newblock \enquote{{Type-III and Tilted Dirac Cones Emerging from Flat Bands in
+  Photonic Orbital Graphene},} {\bf Physical Review X}, vol.~9, no.~3, pp.
+  1--11.
 
 \bibitem{Liu2013}
-Y.~Liu, E.~S. Penev, and B.~I. Yakobson, ``{Probing the synthesis of
-  two-dimensional boron by first-principles computations},'' {\em Angewandte
-  Chemie - International Edition}, vol.~52, no.~11, pp.~3156--3159, 2013.
+Liu, Y., Penev, E.~S., and Yakobson, B.~I., 2013.
+\newblock \enquote{{Probing the synthesis of two-dimensional boron by
+  first-principles computations},} {\bf Angewandte Chemie - International
+  Edition}, vol.~52, no.~11, pp. 3156--3159.
 
 \bibitem{Lopez-Bezanilla2016}
-A.~Lopez-Bezanilla and P.~B. Littlewood, ``{Electronic properties of 8- Pmmn
-  borophene},'' {\em Physical Review B}, vol.~93, no.~24, pp.~2--6, 2016.
+Lopez-Bezanilla, A. and Littlewood, P.~B., 2016.
+\newblock \enquote{{Electronic properties of 8- Pmmn borophene},} {\bf Physical
+  Review B}, vol.~93, no.~24, pp. 2--6.
+
+\bibitem{Cheng2017a}
+Cheng, T., Lang, H., Li, Z., Liu, Z.~Z., and Liu, Z.~Z., 2017.
+\newblock \enquote{{Anisotropic carrier mobility in two-dimensional materials
+  with tilted Dirac cones: Theory and application},} {\bf Physical Chemistry
+  Chemical Physics}, vol.~19, no.~35, pp. 23942--23950.
 
 \bibitem{Liu2019}
-X.~Liu and M.~C. Hersam, ``{Borophene-graphene heterostructures},'' {\em
-  Science Advances}, vol.~5, p.~eaax6444, oct 2019.
+Liu, X. and Hersam, M.~C., 2019.
+\newblock \enquote{{Borophene-graphene heterostructures},} {\bf Science
+  Advances}, vol.~5, no.~10, p. eaax6444.
 
 \bibitem{Katsnelson2006a}
-M.~I. Katsnelson, K.~S. Novoselov, and A.~K. Geim, ``{Chiral tunnelling and the
-  Klein paradox in graphene},'' {\em Nature Physics}, vol.~2, no.~9,
-  pp.~620--625, 2006.
+Katsnelson, M.~I., Novoselov, K.~S., and Geim, A.~K., 2006.
+\newblock \enquote{{Chiral tunnelling and the Klein paradox in graphene},} {\bf
+  Nature Physics}, vol.~2, no.~9, pp. 620--625.
 
 \bibitem{Rahman2015}
-A.~Rahman, J.~W. Guikema, N.~M. Hassan, and N.~Markovi{\'{c}},
-  ``{Angle-dependent transmission in graphene heterojunctions},'' {\em Applied
-  Physics Letters}, vol.~106, no.~1, 2015.
+Rahman, A., Guikema, J.~W., Hassan, N.~M., and Markovi{\'{c}}, N., 2015.
+\newblock \enquote{{Angle-dependent transmission in graphene heterojunctions},}
+  {\bf Applied Physics Letters}, vol. 106, no.~1.
 
 \bibitem{Allain2011}
-P.~E. Allain and J.~N. Fuchs, ``{Klein tunneling in graphene: Optics with
-  massless electrons},'' {\em European Physical Journal B}, vol.~83, no.~3,
-  pp.~301--317, 2011.
+Allain, P.~E. and Fuchs, J.~N., 2011.
+\newblock \enquote{{Klein tunneling in graphene: Optics with massless
+  electrons},} {\bf European Physical Journal B}, vol.~83, no.~3, pp. 301--317.
+
+\bibitem{Yesilyurt2016b}
+Yesilyurt, C., Tan, S.~G., Liang, G., and Jalil, M.~B., 2016.
+\newblock \enquote{{Klein tunneling in Weyl semimetals under the influence of
+  magnetic field},} {\bf Scientific Reports}, vol.~6, no. August, pp. 1--10.
 
 \bibitem{Pereira2009}
-V.~M. Pereira and A.~H. {Castro Neto}, ``{Strain Engineering of Graphene's
-  Electronic Structure},'' {\em Physical Review Letters}, vol.~103, no.~4,
-  pp.~1--4, 2009.
+Pereira, V.~M. and {Castro Neto}, A.~H., 2009.
+\newblock \enquote{{Strain Engineering of Graphene's Electronic Structure},}
+  {\bf Physical Review Letters}, vol. 103, no.~4, pp. 1--4.
 
 \bibitem{Fujita2010}
-T.~Fujita, M.~B. Jalil, and S.~G. Tan, ``{Valley filter in strain engineered
-  graphene},'' {\em Applied Physics Letters}, vol.~97, no.~4, pp.~2012--2015,
-  2010.
+Fujita, T., Jalil, M.~B., and Tan, S.~G., 2010.
+\newblock \enquote{{Valley filter in strain engineered graphene},} {\bf Applied
+  Physics Letters}, vol.~97, no.~4, pp. 2012--2015.
 
 \bibitem{Wu2010}
-Z.~Wu, F.~M. Peeters, and K.~Chang, ``{Electron tunneling through double
-  magnetic barriers on the surface of a topological insulator},'' {\em Physical
-  Review B - Condensed Matter and Materials Physics}, vol.~82, no.~11,
-  pp.~1--7, 2010.
+Wu, Z., Peeters, F.~M., and Chang, K., 2010.
+\newblock \enquote{{Electron tunneling through double magnetic barriers on the
+  surface of a topological insulator},} {\bf Physical Review B - Condensed
+  Matter and Materials Physics}, vol.~82, no.~11, pp. 1--7.
 
 \bibitem{Abergel2009}
-D.~S. Abergel and T.~Chakraborty, ``{Generation of valley polarized current in
-  bilayer graphene},'' {\em Applied Physics Letters}, vol.~95, no.~6,
-  pp.~10--13, 2009.
+Abergel, D.~S. and Chakraborty, T., 2009.
+\newblock \enquote{{Generation of valley polarized current in bilayer
+  graphene},} {\bf Applied Physics Letters}, vol.~95, no.~6, pp. 10--13.
 
 \bibitem{Huard2007}
-B.~Huard, J.~A. Sulpizio, N.~Stander, K.~Todd, B.~Yang, and
-  D.~Goldhaber-Gordon, ``{Transport measurements across a tunable potential
-  barrier in graphene},'' {\em Physical Review Letters}, vol.~98, no.~23,
-  pp.~8--11, 2007.
+Huard, B., Sulpizio, J.~A., Stander, N., Todd, K., Yang, B., and
+  Goldhaber-Gordon, D., 2007.
+\newblock \enquote{{Transport measurements across a tunable potential barrier
+  in graphene},} {\bf Physical Review Letters}, vol.~98, no.~23, pp. 8--11.
 
 \bibitem{Perera2013}
-M.~M. Perera, M.~W. Lin, H.~J. Chuang, B.~P. Chamlagain, C.~Wang, X.~Tan,
-  M.~M.~C. Cheng, D.~Tom{\'{a}}nek, and Z.~Zhou, ``{Improved carrier mobility
-  in few-layer MoS2 field-effect transistors with ionic-liquid gating},'' {\em
-  ACS Nano}, vol.~7, no.~5, pp.~4449--4458, 2013.
+Perera, M.~M., Lin, M.~W., Chuang, H.~J., Chamlagain, B.~P., Wang, C., Tan, X.,
+  Cheng, M. M.~C., Tom{\'{a}}nek, D., and Zhou, Z., 2013.
+\newblock \enquote{{Improved carrier mobility in few-layer MoS2 field-effect
+  transistors with ionic-liquid gating},} {\bf ACS Nano}, vol.~7, no.~5, pp.
+  4449--4458.
 
 \bibitem{RamezaniMasir2008}
-M.~{Ramezani Masir}, P.~Vasilopoulos, A.~Matulis, and F.~M. Peeters,
-  ``{Direction-dependent tunneling through nanostructured magnetic barriers in
-  graphene},'' {\em Physical Review B - Condensed Matter and Materials
-  Physics}, vol.~77, no.~23, pp.~1--11, 2008.
+{Ramezani Masir}, M., Vasilopoulos, P., Matulis, A., and Peeters, F.~M., 2008.
+\newblock \enquote{{Direction-dependent tunneling through nanostructured
+  magnetic barriers in graphene},} {\bf Physical Review B - Condensed Matter
+  and Materials Physics}, vol.~77, no.~23, pp. 1--11.
 
 \bibitem{RamezaniMasir2010}
-M.~{Ramezani Masir}, P.~Vasilopoulos, and F.~M. Peeters, ``{Fabry-P{\'{e}}rot
-  resonances in graphene microstructures: Influence of a magnetic field},''
-  {\em Physical Review B - Condensed Matter and Materials Physics}, vol.~82,
-  no.~11, pp.~1--12, 2010.
+{Ramezani Masir}, M., Vasilopoulos, P., and Peeters, F.~M., 2010.
+\newblock \enquote{{Fabry-P{\'{e}}rot resonances in graphene microstructures:
+  Influence of a magnetic field},} {\bf Physical Review B - Condensed Matter
+  and Materials Physics}, vol.~82, no.~11, pp. 1--12.
 
 \bibitem{Zhang2018b}
-S.~H. Zhang and W.~Yang, ``{Oblique Klein tunneling in 8-Pmmn borophene p-n
-  junctions},'' {\em Physical Review B}, vol.~97, no.~23, pp.~1--7, 2018.
+Zhang, S.~H. and Yang, W., 2018.
+\newblock \enquote{{Oblique Klein tunneling in 8-Pmmn borophene p-n
+  junctions},} {\bf Physical Review B}, vol.~97, no.~23, pp. 1--7.
 
 \bibitem{Awschalom2009}
-D.~Awschalom and N.~Samarth, ``{Spintronics without magnetism},'' {\em
-  Physics}, vol.~2, 2009.
+Awschalom, D. and Samarth, N., 2009.
+\newblock \enquote{{Spintronics without magnetism},} {\bf Physics}, vol.~2.
 
 \end{thebibliography}

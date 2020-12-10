@@ -64,6 +64,8 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/cleveref/cleveref.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/cleveref/cleveref.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/braket/braket.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/braket/braket.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/notoccite/notoccite.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/notoccite/notoccite.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/epsf/epsf.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/epsf/epsf.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
@@ -265,7 +267,6 @@ INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Chapter5.t
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Chapter5.tex
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.bbl
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.bbl
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmti12.tfm
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Biography.tex
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Biography.tex
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.aux
@@ -282,5 +283,4 @@ INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb

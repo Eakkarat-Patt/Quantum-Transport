@@ -17,7 +17,7 @@
 \usepackage{cleveref}
 \usepackage{braket}
 \usepackage{afterpage}
-
+\usepackage{notoccite}% PREVENTS CITES IN CAPTIONS FROM MISNUMBERING YOUR REFERENCES
 
 
 \captionsetup{format = hang, labelsep=space}%This command is setting line of caption and removing colon from the picture captions.
@@ -73,8 +73,11 @@
     \newpage
 
     \addcontentsline{toc}{chapter}{REFERENCES}
-    %\bibliographystyle{kmutt}
-    \bibliographystyle{ieeetr}
+
+
+    \bibliographystyle{kmutt1}
+
+    %\bibliographystyle{ieeetr}
     \bibliography{library}
     \newpage
 

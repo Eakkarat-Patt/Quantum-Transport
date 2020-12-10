@@ -22,20 +22,20 @@
 \contentsline {kmuttchapter}{\numberline {\bf 3.}{\bf MODEL AND METHOD}}{20}%
 \contentsline {section}{\numberline {3.1}Tilt-mismatch Dirac cone junction}{20}%
 \contentsline {section}{\numberline {3.2}Transmission probability of electron in tilted Dirac cone}{21}%
-\contentsline {section}{\numberline {3.3}The elliptic Fermi surface of tilted Dirac cone}{23}%
-\contentsline {section}{\numberline {3.4}Angular dependent wavevector of tilted Dirac cone}{24}%
+\contentsline {section}{\numberline {3.3}The elliptic Fermi surface of tilted Dirac cone}{22}%
+\contentsline {section}{\numberline {3.4}Angular dependent wavevector of tilted Dirac cone}{23}%
 \addvspace {10\p@ }
-\contentsline {kmuttchapter}{\numberline {\bf 4.}{\bf RESULT AND DISCUSSION}}{26}%
-\contentsline {section}{\numberline {4.1}Angular dependent of transmission probability}{26}%
-\contentsline {section}{\numberline {4.2}The tilted strength identification by means of the tunneling resonance properties}{28}%
-\contentsline {section}{\numberline {4.3}Oscillatory behavior of electron resonant tunneling}{28}%
-\contentsline {section}{\numberline {4.4}Revisit: The tilted strength identification by means of the tunneling resonance properties}{29}%
-\contentsline {section}{\numberline {4.5}Pseudo magnetic field}{31}%
-\contentsline {section}{\numberline {4.6}The induction of pseudo magnetic effect by the tilt-mismatch Dirac cone}{32}%
-\contentsline {section}{\numberline {4.7}Transmission under the influence of pseudo magnetic field}{33}%
+\contentsline {kmuttchapter}{\numberline {\bf 4.}{\bf RESULT AND DISCUSSION}}{25}%
+\contentsline {section}{\numberline {4.1}Angular dependent of transmission probability}{25}%
+\contentsline {section}{\numberline {4.2}The tilted strength identification by means of the tunneling resonance properties}{27}%
+\contentsline {section}{\numberline {4.3}Oscillatory behavior of electron resonant tunneling}{27}%
+\contentsline {section}{\numberline {4.4}Revisit: The tilted strength identification by means of the tunneling resonance properties}{28}%
+\contentsline {section}{\numberline {4.5}Tilt-induced transverse wavevector shift}{30}%
+\contentsline {section}{\numberline {4.6}The pseudo magnetic effect in the tilt-mismatch Dirac cone systems}{31}%
+\contentsline {section}{\numberline {4.7}Transmission under the influence of pseudo magnetic field}{32}%
 \addvspace {10\p@ }
-\contentsline {kmuttchapter}{\numberline {\bf 5.}{\bf CONCLUSION AND FUTURE WORK}}{35}%
-\contentsline {section}{\numberline {5.1}Conclusion}{35}%
-\contentsline {section}{\numberline {5.2}Future work}{35}%
-\contentsline {chapter}{REFERENCES}{36}%
+\contentsline {kmuttchapter}{\numberline {\bf 5.}{\bf CONCLUSION AND FUTURE WORK}}{34}%
+\contentsline {section}{\numberline {5.1}Conclusion}{34}%
+\contentsline {section}{\numberline {5.2}Future work}{34}%
+\contentsline {chapter}{REFERENCES}{35}%
 \contentsline {chapter}{BIOGRAPHY}{40}%

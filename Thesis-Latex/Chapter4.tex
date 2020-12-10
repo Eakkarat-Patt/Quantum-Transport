@@ -16,7 +16,7 @@ the influence of magnetic field. We also show the derivation of magnetic field s
     The transmission profiles are symmetric in the case of $w_0 = 0$ regardless of the gate potential. 
     When the tilted parameter is non-zero, the transmission profiles are shifted along the direction of the tilt and consequently become asymmetric, where the magnitude of the shift depends on the tilted strength of the Dirac cone.
     However, the present of the tilt barely affects the tunneling profiles when the applied gate potential is close to the Fermi energy as shown in Fig. \ref{fig:asym2}.
-    This is because the Fermi surface is small and the allowed wavevector states are narrowed. Therefore, electron propagations other than the normal incident are backscattered.\\
+    This is because the Fermi surface is small and the allowed wavevector states are narrowed. Therefore, electron propagations other than the normal incidence are backscattered.\\
     
     Interestingly, when the applied gate voltage $U$ is larger than the Fermi energy $E_F$, the transmission profiles exhibit peak tunneling as shown in Fig. \ref{fig:asym3}-\subref{fig:asym4}.
     These kind of tunnelings are called resonant tunneling, which occurred when the condition $q_x L = n \pi$, $n = 0, \pm1,...$ in Eq. \ref{eq:tp} is met.
@@ -79,7 +79,7 @@ the influence of magnetic field. We also show the derivation of magnetic field s
     %In the next section, we show how to get rid of n
 \section{Oscillatory behavior of electron resonant tunneling} \label{sec:oscillation}
     To understand the behaviors of resonant tunneling under the effect of the tilt and gate potential, 
-    we plot the transmission probabilities at particular incident angle $\phi = 45^{\circ}$ shown in Fig. \ref{fig:tp 45 deg}.
+    we plot the transmission probabilities at fixed incident angle $\phi = 45^{\circ}$ shown in Fig. \ref{fig:tp 45 deg}.
     We found that the resonant tunneling oscillate with the increasing of gate voltage where the voltage difference between each resonance condition is the same.
     Also The voltages required to satisfy the resonance conditions are increased with the tilted strength.
     These resonant tunnelings are shifted uniformly with the tilted parameter, which can be confirmed mathematically by taking the derivative to Eq. \ref{eq:w0} with respect to $U$
@@ -138,7 +138,7 @@ the influence of magnetic field. We also show the derivation of magnetic field s
                     These voltages satisfy the resonance condition at $\phi = \frac{\pi}{4}$.}
         \label{fig:find w}
     \end{figure}
-\section{Pseudo magnetic field} \label{sec:pseudo b}
+\section{Tilt-induced transverse wavevector shift} \label{sec:pseudo b}
     In section \ref{sec:asym}, we have shown that the tunneling behavior of electron across the tilted Dirac cone exhibits asymmetric transmission. 
     Previously, the transmission of this kind can be achieved by applying the magnetic barrier to the system \cite{RamezaniMasir2008,RamezaniMasir2010}.
     In this section, we demonstrate that the similar transmission profile can also be achieved in the tilted Dirac cone system without the magnetic barrier.
@@ -147,11 +147,11 @@ the influence of magnetic field. We also show the derivation of magnetic field s
         q_x \approx \sqrt{q'^2 -(k_y-q'w_0)^2}
     \end{equation} 
     where $q' = \frac{E_F-U}{\eta \hbar v_F}$. 
-    Notice that the y-component wavevector in Eq. \ref{eq:k_shift} is shifted by the tilted Dirac cone similar to the wavevector shift by the effect of magnetic vector potential.
+    Notice that the y-component wavevector in Eq. \ref{eq:k_shift} is shifted by the tilted Dirac cone similar to the wavevector shifted by the effect of magnetic vector potential.
     Based on this analogy, we can derive the equivalent pseudo magnetic field
     \begin{align} \label{eq:pseudo B}
-        -q' w_0 &= \frac{\xi}{l_B} \notag \\
-        -\left(\frac{E_F-U}{\eta \hbar v_F}\right) w_0 &= \xi\sqrt{\frac{|e| B}{\hbar}} \notag \\
+        \frac{\xi}{l_B} &= -q' w_0 \notag \\
+        \xi\sqrt{\frac{|e| B}{\hbar}} &=  -\left(\frac{E_F-U}{\eta \hbar v_F}\right) w_0\notag \\
         B &= \left(\frac{\varepsilon w_0}{v_F}\right)^2 \frac{1}{\xi \gamma \hbar |e|}
     \end{align}
     where $\varepsilon = E_F-U$ is effective Fermi energy. 
@@ -159,7 +159,7 @@ the influence of magnetic field. We also show the derivation of magnetic field s
     The positive(negative) sign mean that the Dirac cone tilted to the left(right) side with respect to normal direction. 
     $\gamma = \pm 1$ indicate the carrier type in Fermi energy level.
 
-\section{The induction of pseudo magnetic effect by the tilt-mismatch Dirac cone}
+\section{The pseudo magnetic effect in the tilt-mismatch Dirac cone systems}
     We have found in section \ref{sec:pseudo b} that both the potential and tilt are the source of pseudo-magnetic field effect, where the strength and direction of the field can be controlled by tuning the effective Fermi energy.
     This effect actually been proposed in Weyl semimetal n-p-n junction with tilted Weyl cones \cite{Yesilyurt2017a}.
     However, the coupling of the tilt and top gate potential barrier is required to preserve the effect. In contrast to our work, where the top gate potential can be set to zero, and pseudo-magnetic field effect still occurred according to Eq. \ref{eq:pseudo B}.
@@ -174,7 +174,7 @@ the influence of magnetic field. We also show the derivation of magnetic field s
     
     \begin{figure}[H] 
         \centering
-            \begin{subfigure}[b]{0.3\linewidth}
+            \begin{subfigure}[b]{0.4\linewidth}
                 \includegraphics[width=\linewidth]{fig/Fermi surface.png}
                 \caption{}
                 \label{fig:fermi surface}
@@ -198,6 +198,9 @@ the influence of magnetic field. We also show the derivation of magnetic field s
     However, the pseudo-MVP is valid only if the strength of the tilt is small. 
     Otherwise, the transmission profiles would become distinguishable, as shown in Fig. \ref{fig:pseudo2}. 
     The same applies in the case of potential barrier $U=0$, where the pseudo-MVP occurs when $w_0$ is small and becomes weak as $w_0$ increase as shown in Fig. \ref{fig:pseudo3}-\subref{fig:pseudo4}. 
+    Besides, the effect of real magnetic vector potential destroys the Klein tunneling, since it shifts the whole Dirac cone in momentum space. 
+    In contrast to pseudo magnetic vector potential, where momentum is also shifted but the position of Dirac point remains the same. 
+    As a result, the Klein tunneling is still preserved.
 
     \begin{figure}[H] %Pseudo B field 
     \centering
