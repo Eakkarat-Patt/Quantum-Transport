@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.22)  10 MAR 2021 15:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.12.22)  10 MAR 2021 16:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -399,12 +399,7 @@ LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <15> not available
 
 (/Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.toc [5
 
-]
-
-LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <13> not available
-(Font)              size <12> substituted on input line 26.
-
-)
+])
 \tf@toc=\write3
 \openout3 = `Main.toc'.
 
@@ -763,15 +758,15 @@ LaTeX Font Warning: Size substitutions with differences
 (\end occurred when \iftrue on line 44 was incomplete)
 (\end occurred when \ifnum on line 44 was incomplete) 
 Here is how much of TeX's memory you used:
- 7772 strings out of 480608
- 136966 string characters out of 5903629
+ 7769 strings out of 480608
+ 136928 string characters out of 5903629
  369450 words of memory out of 5000000
- 23470 multiletter control sequences out of 15000+600000
+ 23467 multiletter control sequences out of 15000+600000
  541459 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,15n,44p,899b,506s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.pdf (56 pages, 29464537 bytes).
+Output written on /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.pdf (56 pages, 29464493 bytes).
 PDF statistics:
  330 PDF objects out of 1000 (max. 8388607)
  169 compressed objects within 2 object streams

@@ -22,9 +22,9 @@
 \usepackage[titles]{tocloft} % These two lines remove the dots in table of content
 \renewcommand{\cftdot}{}     %
 \usepackage{afterpage}
-\DeclareRobustCommand*{\contheading}{%
-  \afterpage{{\normalfont\large\bfseries\centering
-  Table of Contents - Continued\par\bigskip}}}
+%\DeclareRobustCommand*{\contheading}{%
+%  \afterpage{{\normalfont\large\bfseries\centering
+%  Table of Contents - Continued\par\bigskip}}}
 
 
 \captionsetup{format = hang, labelsep=space}%This command is setting line of caption and removing colon from the picture captions.
@@ -57,7 +57,7 @@
     \addcontentsline{toc}{chapter}{ACKNOWLEDGMENTS}
     \newpage
 
-    \addtocontents{toc}{\contheading}
+  % \addtocontents{toc}{\contheading}
     \tableofcontents
     \addtocontents{toc}{\contentsline{chapter}{CONTENTS}{iv}}
     \newpage
