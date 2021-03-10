@@ -66,6 +66,10 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/braket/braket.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/braket/braket.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/notoccite/notoccite.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/notoccite/notoccite.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/longtable.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/longtable.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tocloft/tocloft.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tocloft/tocloft.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/epsf/epsf.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/epsf/epsf.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
@@ -77,8 +81,24 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/grfext/grfext.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/grfext/grfext.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/caption/ltcaption.sty
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/caption/ltcaption.sty
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/title.tex
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/title.tex
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/logo.jpg
@@ -117,6 +137,8 @@ INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm1
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Abstract en.tex
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Abstract en.tex
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Acknowledge.tex
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Acknowledge.tex
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.toc
@@ -236,6 +258,9 @@ INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tunnel
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tunneling shift/U0.285.png
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tunneling shift/U0.285.png
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tunneling shift/U0.285.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/contour Ef = 0.08 U = 0.2.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/contour Ef = 0.08 U = 0.2.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/contour Ef = 0.08 U = 0.2.png
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tp Ef = 0.08 e1 = 0 e2 = 0.05 e3 = 0.1.png
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tp Ef = 0.08 e1 = 0 e2 = 0.05 e3 = 0.1.png
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/tp Ef = 0.08 e1 = 0 e2 = 0.05 e3 = 0.1.png
@@ -267,6 +292,14 @@ INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Chapter5.t
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Chapter5.tex
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.bbl
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.bbl
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Appendix.tex
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Appendix.tex
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/mathe1.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/mathe1.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/mathe1.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/mathe2.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/mathe2.png
+INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/fig/mathe2.png
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Biography.tex
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Biography.tex
 INPUT /Users/eakkarat/Documents/GitHub/Quantum-Transport/Thesis-Latex/Main.aux

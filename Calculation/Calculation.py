@@ -203,7 +203,7 @@ def tp_plot_contour(Ef, U, l, h, pr):
 
 
 def tp_plot2(Ef, U, e1, l, h):
-    """
+    """"
      Polar plot: transmission prob vs angle with and without mismatch effect
     set l = h = 8
     """

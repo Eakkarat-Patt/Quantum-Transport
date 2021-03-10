@@ -3,44 +3,44 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Main.aux
 The style file: kmutt1.bst
 Database file #1: library.bib
-You've used 37 entries,
+You've used 39 entries,
             2783 wiz_defined-function locations,
-            843 strings with 12084 characters,
-and the built_in function-call counts, 20045 in all, are:
-= -- 1512
-> -- 592
-< -- 101
-+ -- 210
-- -- 173
-* -- 1362
-:= -- 2051
-add.period$ -- 111
-call.type$ -- 37
-change.case$ -- 37
+            858 strings with 12580 characters,
+and the built_in function-call counts, 21265 in all, are:
+= -- 1602
+> -- 629
+< -- 109
++ -- 223
+- -- 184
+* -- 1450
+:= -- 2172
+add.period$ -- 117
+call.type$ -- 39
+change.case$ -- 39
 chr.to.int$ -- 0
-cite$ -- 37
-duplicate$ -- 2155
-empty$ -- 1727
-format.name$ -- 209
-if$ -- 4398
+cite$ -- 39
+duplicate$ -- 2285
+empty$ -- 1830
+format.name$ -- 222
+if$ -- 4665
 int.to.chr$ -- 0
-int.to.str$ -- 37
-missing$ -- 425
-newline$ -- 152
-num.names$ -- 37
-pop$ -- 655
+int.to.str$ -- 39
+missing$ -- 451
+newline$ -- 160
+num.names$ -- 39
+pop$ -- 691
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 512
+skip$ -- 543
 stack$ -- 0
-substring$ -- 1329
-swap$ -- 1507
-text.length$ -- 101
+substring$ -- 1411
+swap$ -- 1606
+text.length$ -- 109
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 166
-width$ -- 39
-write$ -- 372
+while$ -- 176
+width$ -- 41
+write$ -- 393

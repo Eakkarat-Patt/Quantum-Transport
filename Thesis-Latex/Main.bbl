@@ -36,6 +36,13 @@ Zhang, H., Xie, Y., Zhong, C., Zhang, Z., and Chen, Y., 2017.
   Nitrogen Line Defects},} {\bf Journal of Physical Chemistry C}, vol. 121,
   no.~22, pp. 12476--12482.
 
+\bibitem{Marino2019}
+Marino, E.~C., Corr{\^{e}}a, R.~O., Arouca, R., Nunes, L.~H., and Alves, V.~S.,
+  2020.
+\newblock \enquote{{Superconducting and pseudogap transition temperatures in
+  high-Tc cuprates and the Tc dependence on pressure},} {\bf Superconductor
+  Science and Technology}, vol.~33, no.~3.
+
 \bibitem{Xia2014}
 Xia, F., Wang, H., and Jia, Y., 2014.
 \newblock \enquote{{Rediscovering black phosphorus as an anisotropic layered
@@ -66,12 +73,6 @@ Mannix, A.~J., Zhou, X.-F., Kiraly, B., Wood, J.~D., Alducin, D., Myers, B.~D.,
 Zhou, X.~F., Dong, X., Oganov, A.~R., Zhu, Q., Tian, Y., and Wang, H.~T., 2014.
 \newblock \enquote{{Semimetallic two-dimensional boron allotrope with massless
   Dirac fermions},} {\bf Physical Review Letters}, vol. 112, no.~8, pp. 1--5.
-
-\bibitem{Marino2019}
-Marino, E.~C., Corr{\^{e}}a, R.~O., Arouca, R., Nunes, L.~H., and Alves, V.~S.,
-  2019.
-\newblock \enquote{{Superconducting and pseudogap transition temperatures in
-  high-Tc cuprates and the Tc dependence on pressure},} {\bf arXiv}.
 
 \bibitem{Li2017a}
 Li, D., Rosenstein, B., Shapiro, B.~Y., and Shapiro, I., 2017.
@@ -204,6 +205,19 @@ Perera, M.~M., Lin, M.~W., Chuang, H.~J., Chamlagain, B.~P., Wang, C., Tan, X.,
 \newblock \enquote{{Fabry-P{\'{e}}rot resonances in graphene microstructures:
   Influence of a magnetic field},} {\bf Physical Review B - Condensed Matter
   and Materials Physics}, vol.~82, no.~11, pp. 1--12.
+
+\bibitem{Malko2012}
+Malko, D., Neiss, C., Vi{\~{n}}es, F., and G{\"{o}}rling, A., 2012.
+\newblock \enquote{{Competition for graphene: Graphynes with
+  direction-dependent dirac cones},} {\bf Physical Review Letters}, vol. 108,
+  no.~8, pp. 1--4.
+
+\bibitem{Wang2015b}
+Wang, Z., Zhou, X.~F., Zhang, X., Zhu, Q., Dong, H., Zhao, M., and Oganov,
+  A.~R., 2015.
+\newblock \enquote{{Phagraphene: A Low-Energy Graphene Allotrope Composed of
+  5-6-7 Carbon Rings with Distorted Dirac Cones},} {\bf Nano Letters}, vol.~15,
+  no.~9, pp. 6182--6186.
 
 \bibitem{Zhang2018b}
 Zhang, S.~H. and Yang, W., 2018.

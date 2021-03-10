@@ -15,11 +15,11 @@ the influence of magnetic field. We also show the derivation of magnetic field s
     The transmission probabilities across the tilted Dirac cone heterojunctions under the variation of gate potential are presented in Fig. \ref{fig:asym}.
     The transmission profiles are symmetric in the case of $w_0 = 0$ regardless of the gate potential. 
     When the tilted parameter is non-zero, the transmission profiles are shifted along the direction of the tilt and consequently become asymmetric, where the magnitude of the shift depends on the tilted strength of the Dirac cone.
-    However, the present of the tilt barely affects the tunneling profiles when the applied gate potential is close to the Fermi energy as shown in Fig. \ref{fig:asym2}.
+    However, the presence of the tilt barely affects the tunneling profiles when the applied gate potential is close to the Fermi energy as shown in Fig. \ref{fig:asym2}.
     This is because the Fermi surface is small and the allowed wavevector states are narrowed. Therefore, electron propagations other than the normal incidence are backscattered.\\
     
     Interestingly, when the applied gate voltage $U$ is larger than the Fermi energy $E_F$, the transmission profiles exhibit peak tunneling as shown in Fig. \ref{fig:asym3}-\subref{fig:asym4}.
-    These kind of tunnelings are called resonant tunneling, which occurred when the condition $q_x L = n \pi$, $n = 0, \pm1,...$ in Eq. \ref{eq:tp} is met.
+    These kind of tunnelings is called resonant tunneling, which occurred when the condition $q_x L = n \pi$, $n = 0, \pm1,...$ in Eq. \ref{eq:tp} is met.
     %In addition, the normal incident perfect tunneling is not affected by the transverse tilted Dirac cone.
     
     \begin{figure}[H] %Asymmetric tunneling
@@ -65,8 +65,20 @@ the influence of magnetic field. We also show the derivation of magnetic field s
     One can obtain the tilted parameter by applying the gate voltage and Fermi energy then measure the resonant tunneling angle, which can be experimentally observed
     by four-point probes technique \cite{Rahman2015}.
     To illustrate how to calculate for the tilted parameter, we substitute the configuration of dashed-dotted line in Fig. \ref{fig:asym3} to Eq. \ref{eq:w0}.
-    We choose the resonance condition $n=4$, which corresponds to the resonant tunneling angle $\phi = 72^{\circ}$. We find $w_0 = 0.1$.\\
+    We choose the resonance condition $n=4$, which corresponds to the resonant tunneling angle $\phi = 72^{\circ}$. We find $w_0 = 0.1$.
+    Fig. \ref{fig:contour plot} shows the contour plot of transmission probability, where each perfect transmission lines occur due to the different resonance conditions labeled by the integer $n$. 
+    These perfect transmission lines can be understood by analyzing Eq. \ref{eq:w0}. 
+    The position of perfect transmissions is determined by the term $\sqrt{(1+(n \pi)^2/(k_y L)^2}$ since different value $n$ give rise to different resonant tunneling conditions. 
+    For example, $\phi \approx -\pi/2$ the resonance condition $n=6$ occur for $w_{-} \approx 0.34$, while in the case of $n=7$, the tilted parameter $w_{-} \approx 0.57$. The term $(U-E)/\hbar v_F k_y$ is invariant under the resonance condition, therefore it is constant with different value $n$. 
+    This term determines the resonant tunneling profile and is responsible for distinctly different behaviors of resonance conditions $n=5$ and 6, where $w_0$ decrease as $\phi$ go toward normal direction.\\
     
+    \begin{figure}[H]
+        \centering
+            \includegraphics[width=\linewidth]{fig/contour Ef = 0.08 U = 0.2.png}
+            \caption{Contour plot of transmission probability. The Fermi energy $E_F=80$ meV and gate potential $U=200$ meV.}
+        \label{fig:contour plot}
+    \end{figure}
+
     However, this method is not at all practical since the variable $n$ is unlikely observable.
     Also, the only way to manipulate the electron propagations is by tuning the voltages through the bottom and top gate.
     In section \ref{sec:find w 2}, we propose a more practical method to identify the tilted strength, which again, involve with the resonant tunneling behaviors.
@@ -107,7 +119,7 @@ the influence of magnetic field. We also show the derivation of magnetic field s
     We have discussed earlier in section \ref{sec:oscillation} that the relation of $w_0$ and $U$ are linear with the slope of $1/\hbar v_F k \sin{\phi}$.
     For this reason, we can identify the tilted strength by measuring the difference between two voltages satisfied the same resonance condition.
     \begin{align} \label{eq:w0 2}
-        \Delta w = \frac{\Delta U}{\hbar v_F k_y}
+        \Delta w = \frac{\Delta U}{\hbar v_F k_y}.
     \end{align}
     To apply Eq. \ref{eq:w0 2} to determine the tilted parameter, the voltages satisfied the same resonance condition have to be first determined,
     which can be achieved using the device structure depicted in Fig. \ref{fig:3 arms}. We have to tune $U$ until the resonant tunneling occurs at $\phi = \pi/4$,
@@ -134,7 +146,7 @@ the influence of magnetic field. We also show the derivation of magnetic field s
         \caption{(a) The device structure for the measurement of resonant tunneling electron.  
                     Straight blue lines represent the transport region where both arms are $45^{\circ}$ angled with the normal direction. 
                     Green and yellow region represents top gate and electrode respectively. 
-                    (b) Angular-dependent transmission for different applied voltages, U=180.2 meV for solid line and U=185.85 meV for dashed-dotted line. 
+                    (b) Angular-dependent transmission for different applied voltages, $U=180.2$ meV for solid line and $U=185.85$ meV for dashed-dotted line. 
                     These voltages satisfy the resonance condition at $\phi = \frac{\pi}{4}$.}
         \label{fig:find w}
     \end{figure}
@@ -158,6 +170,11 @@ the influence of magnetic field. We also show the derivation of magnetic field s
     $\xi = \pm 1$ is in fact the direction of magnetic field, but since these fields are induced by the tilted Dirac cone, it can be considered as the direction of the tilt.
     The positive(negative) sign mean that the Dirac cone tilted to the left(right) side with respect to normal direction. 
     $\gamma = \pm 1$ indicate the carrier type in Fermi energy level.
+    The typical strength of a tilt depends on the material themselves. 
+    For example, the DFT calculation results showed the tilted anisotropic Dirac cones in 6,6,12-graphyne with the strength $w_0 \approx 0.2$ \cite{Malko2012,Wang2015b}, 
+    which equivalent to the pseudo magnetic field strength $B_s \approx 0.88$ T under the effect of effective Fermi energy $\varepsilon = -120$ meV. 
+    Another Dirac material with tilted anisotropic Dirac cones is borophene. The first principle calculation revealed that the tilted parameter of 8-Pmmn borophene $\approx 0.3$ \cite{Cheng2017a}, 
+    which can generate the pseudo magnetic field strength $B_s \approx 1.97$ T with $\varepsilon = -120$ meV. 
 
 \section{The pseudo magnetic effect in the tilt-mismatch Dirac cone systems}
     We have found in section \ref{sec:pseudo b} that both the potential and tilt are the source of pseudo-magnetic field effect, where the strength and direction of the field can be controlled by tuning the effective Fermi energy.

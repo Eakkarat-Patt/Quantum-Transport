@@ -1,10 +1,12 @@
-\penalty -\@highpenalty \relax \vskip 1.0em plus\p@ \@tempdima 3.5em\relax \begingroup \parindent \z@ \rightskip 1.55em\parfillskip -1.55em\unhbox \voidb@x \bfseries \advance \leftskip \@tempdima \hskip -\leftskip \nobreak \hfil \nobreak \hbox to1.55em{\hss PAGE}\par \penalty \@highpenalty \endgroup 
-\contentsline {chapter}{ABSTRACT IN THAI}{ii}%
-\contentsline {chapter}{ABSTRACT IN ENGLISH}{iii}%
-\penalty -\@highpenalty \relax \vskip 1.0em plus\p@ \@tempdima 3.5em\relax \begingroup \parindent \z@ \rightskip 1.55em\parfillskip -1.55em\unhbox \voidb@x \bfseries \advance \leftskip \@tempdima \hskip -\leftskip CONTENTS\nobreak \hfil \nobreak \hbox to1.55em{\hss iv}\par \penalty \@highpenalty \endgroup 
-\@tempskipb \lastskip \begingroup \@tempskipa \@tempskipb \advance \@tempskipb \prevdepth \vskip -\@tempskipb \penalty -\@highpenalty \advance \@tempskipb -\@tempskipa \vskip \@tempskipb \vskip \@tempskipa \endgroup \vskip 1.0em plus\p@ \@tempdima 3.5em\relax \begingroup \parindent \z@ \rightskip 1.55em\parfillskip -1.55em\unhbox \voidb@x \bfseries \advance \leftskip \@tempdima \hskip -\leftskip LIST OF FIGURES\nobreak \hfil \nobreak \hbox to1.55em{\hss vi}\par \penalty \@highpenalty \endgroup 
-\penalty -\@highpenalty \relax \vskip 1.0em plus\p@ \@tempdima 3.5em\relax \begingroup \parindent \z@ \rightskip 1.55em\parfillskip -1.55em\unhbox \voidb@x \bfseries \advance \leftskip \@tempdima \hskip -\leftskip \nobreak \hfil \nobreak \hbox to1.55em{\hss }\par \penalty \@highpenalty \endgroup 
-\penalty -\@highpenalty \relax \vskip 1.0em plus\p@ \@tempdima 3.5em\relax \begingroup \parindent \z@ \rightskip 1.55em\parfillskip -1.55em\unhbox \voidb@x \bfseries \advance \leftskip \@tempdima \hskip -\leftskip CHAPTER\nobreak \hfil \nobreak \hbox to1.55em{\hss }\par \penalty \@highpenalty \endgroup 
+\penalty -\@highpenalty \relax \vskip \cftbeforechapskip {\leftskip \cftchapindent \relax \rightskip 2.55em\parfillskip -\rightskip \parindent \cftchapindent \relax \let \interlinepenalty \@M \unhbox \voidb@x \@tempdima \cftchapnumwidth \relax \let \let \let \advance \leftskip \@tempdima \hbox {}\nobreak \hskip -\leftskip {\bfseries }\nobreak {\bfseries \def \labelcrefrange@enumv@format@last {5000}\def \labelcrefrange@enumiv@format@last {5000}\leaders \hbox {$\mathsurround \z@ \mkern 5000 mu\hbox {}\mkern 5000 mu$}\hfill }\nobreak \makebox [1.55em][r]{\bfseries PAGE}\par }
+\contentsline {chapter}{ABSTRACT IN ENGLISH}{ii}%
+\contentsline {chapter}{ABSTRACT IN THAI}{iii}%
+\contentsline {chapter}{ACKNOWLEDGMENTS}{iv}%
+\contheading 
+\penalty -\@highpenalty \relax \vskip \cftbeforechapskip {\leftskip \cftchapindent \relax \rightskip 2.55em\parfillskip -\rightskip \parindent \cftchapindent \relax \let \interlinepenalty \@M \unhbox \voidb@x \@tempdima \cftchapnumwidth \relax \let \let \let \advance \leftskip \@tempdima \hbox {}\nobreak \hskip -\leftskip {\bfseries CONTENTS}\nobreak {\bfseries \def \labelcrefrange@enumv@format@last {5000}\def \labelcrefrange@enumiv@format@last {5000}\leaders \hbox {$\mathsurround \z@ \mkern 5000 mu\hbox {}\mkern 5000 mu$}\hfill }\nobreak \makebox [1.55em][r]{\bfseries iv}\par }
+\@tempskipb \lastskip \begingroup \@tempskipa \@tempskipb \advance \@tempskipb \prevdepth \vskip -\@tempskipb \penalty -\@highpenalty \advance \@tempskipb -\@tempskipa \vskip \@tempskipb \vskip \@tempskipa \endgroup \vskip \cftbeforechapskip {\leftskip \cftchapindent \relax \rightskip 2.55em\parfillskip -\rightskip \parindent \cftchapindent \relax \let \interlinepenalty \@M \unhbox \voidb@x \@tempdima \cftchapnumwidth \relax \let \let \let \advance \leftskip \@tempdima \hbox {}\nobreak \hskip -\leftskip {\bfseries LIST OF FIGURES}\nobreak {\bfseries \def \labelcrefrange@enumv@format@last {5000}\def \labelcrefrange@enumiv@format@last {5000}\leaders \hbox {$\mathsurround \z@ \mkern 5000 mu\hbox {}\mkern 5000 mu$}\hfill }\nobreak \makebox [1.55em][r]{\bfseries vi}\par }
+\penalty -\@highpenalty \relax \vskip \cftbeforechapskip {\leftskip \cftchapindent \relax \rightskip 2.55em\parfillskip -\rightskip \parindent \cftchapindent \relax \let \interlinepenalty \@M \unhbox \voidb@x \@tempdima \cftchapnumwidth \relax \let \let \let \advance \leftskip \@tempdima \hbox {}\nobreak \hskip -\leftskip {\bfseries }\nobreak {\bfseries \def \labelcrefrange@enumv@format@last {5000}\def \labelcrefrange@enumiv@format@last {5000}\leaders \hbox {$\mathsurround \z@ \mkern 5000 mu\hbox {}\mkern 5000 mu$}\hfill }\nobreak \makebox [1.55em][r]{\bfseries }\par }
+\penalty -\@highpenalty \relax \vskip \cftbeforechapskip {\leftskip \cftchapindent \relax \rightskip 2.55em\parfillskip -\rightskip \parindent \cftchapindent \relax \let \interlinepenalty \@M \unhbox \voidb@x \@tempdima \cftchapnumwidth \relax \let \let \let \advance \leftskip \@tempdima \hbox {}\nobreak \hskip -\leftskip {\bfseries CHAPTER}\nobreak {\bfseries \def \labelcrefrange@enumv@format@last {5000}\def \labelcrefrange@enumiv@format@last {5000}\leaders \hbox {$\mathsurround \z@ \mkern 5000 mu\hbox {}\mkern 5000 mu$}\hfill }\nobreak \makebox [1.55em][r]{\bfseries }\par }
 \afterpage {\nobreakspace {}\hfill \textbf {PAGE}\par \vspace \medskipamount }
 \addvspace {10\p@ }
 \contentsline {kmuttchapter}{\numberline {\bf 1.}{\bf INTRODUCTION}}{1}%
@@ -28,14 +30,15 @@
 \contentsline {kmuttchapter}{\numberline {\bf 4.}{\bf RESULT AND DISCUSSION}}{25}%
 \contentsline {section}{\numberline {4.1}Angular dependent of transmission probability}{25}%
 \contentsline {section}{\numberline {4.2}The tilted strength identification by means of the tunneling resonance properties}{27}%
-\contentsline {section}{\numberline {4.3}Oscillatory behavior of electron resonant tunneling}{27}%
-\contentsline {section}{\numberline {4.4}Revisit: The tilted strength identification by means of the tunneling resonance properties}{28}%
-\contentsline {section}{\numberline {4.5}Tilt-induced transverse wavevector shift}{30}%
-\contentsline {section}{\numberline {4.6}The pseudo magnetic effect in the tilt-mismatch Dirac cone systems}{31}%
-\contentsline {section}{\numberline {4.7}Transmission under the influence of pseudo magnetic field}{32}%
+\contentsline {section}{\numberline {4.3}Oscillatory behavior of electron resonant tunneling}{28}%
+\contentsline {section}{\numberline {4.4}Revisit: The tilted strength identification by means of the tunneling resonance properties}{30}%
+\contentsline {section}{\numberline {4.5}Tilt-induced transverse wavevector shift}{31}%
+\contentsline {section}{\numberline {4.6}The pseudo magnetic effect in the tilt-mismatch Dirac cone systems}{32}%
+\contentsline {section}{\numberline {4.7}Transmission under the influence of pseudo magnetic field}{33}%
 \addvspace {10\p@ }
-\contentsline {kmuttchapter}{\numberline {\bf 5.}{\bf CONCLUSION AND FUTURE WORK}}{34}%
-\contentsline {section}{\numberline {5.1}Conclusion}{34}%
-\contentsline {section}{\numberline {5.2}Future work}{34}%
-\contentsline {chapter}{REFERENCES}{35}%
-\contentsline {chapter}{BIOGRAPHY}{40}%
+\contentsline {kmuttchapter}{\numberline {\bf 5.}{\bf CONCLUSION AND FUTURE WORK}}{36}%
+\contentsline {section}{\numberline {5.1}Conclusion}{36}%
+\contentsline {section}{\numberline {5.2}Future work}{36}%
+\contentsline {chapter}{REFERENCES}{37}%
+\contentsline {chapter}{APPENDIX A}{42}%
+\contentsline {chapter}{BIOGRAPHY}{45}%

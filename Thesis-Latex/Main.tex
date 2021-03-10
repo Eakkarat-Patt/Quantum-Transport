@@ -1,5 +1,5 @@
 \documentclass[12pt]{kmutt}
-\usepackage[left=40mm, right=20mm, top=30mm, bottom=20mm, includefoot=12.7mm, headheight=12.7mm]{geometry}
+\usepackage[left=40mm, right=20mm, top=30mm, bottom=20mm, includefoot=20mm, headheight=30mm]{geometry}
 \usepackage{mathrsfs}
 \usepackage{float}
 %\usepackage{subfloat}
@@ -18,6 +18,13 @@
 \usepackage{braket}
 \usepackage{afterpage}
 \usepackage{notoccite}% PREVENTS CITES IN CAPTIONS FROM MISNUMBERING YOUR REFERENCES
+\usepackage{longtable} % Texts in table can span multiple pages
+\usepackage[titles]{tocloft} % These two lines remove the dots in table of content
+\renewcommand{\cftdot}{}     %
+\usepackage{afterpage}
+\DeclareRobustCommand*{\contheading}{%
+  \afterpage{{\normalfont\large\bfseries\centering
+  Table of Contents - Continued\par\bigskip}}}
 
 
 \captionsetup{format = hang, labelsep=space}%This command is setting line of caption and removing colon from the picture captions.
@@ -39,18 +46,18 @@
     \input{in_title.tex}
     \newpage
     
+    \input{Abstract en.tex}
+    \addcontentsline{toc}{chapter}{ABSTRACT IN ENGLISH}
+    \newpage
    
     \, \quad \addcontentsline{toc}{chapter}{ABSTRACT IN THAI}
     \newpage
 
-    \input{Abstract en.tex}
-    \addcontentsline{toc}{chapter}{ABSTRACT IN ENGLISH}
+    \input{Acknowledge.tex}
+    \addcontentsline{toc}{chapter}{ACKNOWLEDGMENTS}
     \newpage
 
-    %\input{Acknowledge.tex}
-    %\addcontentsline{toc}{chapter}{ACKNOWLEDGMENTS}
-    %\newpage
-
+    \addtocontents{toc}{\contheading}
     \tableofcontents
     \addtocontents{toc}{\contentsline{chapter}{CONTENTS}{iv}}
     \newpage
@@ -72,15 +79,18 @@
     \input{Chapter5.tex}
     \newpage
 
+    
+
     \addcontentsline{toc}{chapter}{REFERENCES}
-
-
     \bibliographystyle{kmutt1}
-
     %\bibliographystyle{ieeetr}
     \bibliography{library}
     \newpage
 
+    \addcontentsline{toc}{chapter}{APPENDIX A}
+    \input{Appendix.tex}
+
+    \newpage
     \addcontentsline{toc}{chapter}{BIOGRAPHY}
     \input{Biography.tex}
 \end{document}
